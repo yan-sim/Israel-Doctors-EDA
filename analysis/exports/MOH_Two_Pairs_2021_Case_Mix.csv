@@ -1,0 +1,127 @@
+﻿pair,metric,stratification,stratum_value,hospital,cases,share_pct
+HaEmek vs Barzilai,CHADS,gender,זכר,HaEmek,207.0,53.76623376623377
+HaEmek vs Barzilai,CHADS,gender,זכר,Barzilai,346.0,46.19492656875835
+HaEmek vs Barzilai,CHADS,gender,נקבה,HaEmek,178.0,46.23376623376623
+HaEmek vs Barzilai,CHADS,gender,נקבה,Barzilai,403.0,53.80507343124165
+HaEmek vs Barzilai,CHADS,age_range, 65 - 69,HaEmek,36.0,9.35064935064935
+HaEmek vs Barzilai,CHADS,age_range, 65 - 69,Barzilai,69.0,9.212283044058745
+HaEmek vs Barzilai,CHADS,age_range, 70 - 74,HaEmek,63.0,16.363636363636363
+HaEmek vs Barzilai,CHADS,age_range, 70 - 74,Barzilai,124.0,16.555407209612817
+HaEmek vs Barzilai,CHADS,age_range, 75 - 79,HaEmek,53.0,13.766233766233766
+HaEmek vs Barzilai,CHADS,age_range, 75 - 79,Barzilai,92.0,12.283044058744993
+HaEmek vs Barzilai,CHADS,age_range, 80 - 84,HaEmek,53.0,13.766233766233766
+HaEmek vs Barzilai,CHADS,age_range, 80 - 84,Barzilai,148.0,19.759679572763684
+HaEmek vs Barzilai,CHADS,age_range, 85 - 89,HaEmek,53.0,13.766233766233766
+HaEmek vs Barzilai,CHADS,age_range, 85 - 89,Barzilai,109.0,14.552736982643525
+HaEmek vs Barzilai,CHADS,age_range, 90 +,HaEmek,50.0,12.987012987012987
+HaEmek vs Barzilai,CHADS,age_range, 90 +,Barzilai,92.0,12.283044058744993
+HaEmek vs Barzilai,CHADS,age_range, עד 64,HaEmek,77.0,20.0
+HaEmek vs Barzilai,CHADS,age_range, עד 64,Barzilai,115.0,15.353805073431241
+HaEmek vs Barzilai,CHADS,day_range,א - ה,HaEmek,342.0,88.83116883116882
+HaEmek vs Barzilai,CHADS,day_range,א - ה,Barzilai,695.0,92.79038718291055
+HaEmek vs Barzilai,CHADS,day_range,ו - ש,HaEmek,43.0,11.168831168831169
+HaEmek vs Barzilai,CHADS,day_range,ו - ש,Barzilai,54.0,7.209612817089453
+HaEmek vs Barzilai,Colon antibiotics,gender,זכר,HaEmek,48.0,52.17391304347826
+HaEmek vs Barzilai,Colon antibiotics,gender,זכר,Barzilai,40.0,71.42857142857143
+HaEmek vs Barzilai,Colon antibiotics,gender,נקבה,HaEmek,44.0,47.82608695652174
+HaEmek vs Barzilai,Colon antibiotics,gender,נקבה,Barzilai,16.0,28.571428571428573
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 18 - 40,HaEmek,14.0,15.217391304347826
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 18 - 40,Barzilai,4.0,7.142857142857143
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 41 - 50,HaEmek,10.0,10.869565217391305
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 41 - 50,Barzilai,6.0,10.714285714285714
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 51 - 60,HaEmek,22.0,23.91304347826087
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 51 - 60,Barzilai,6.0,10.714285714285714
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 61 - 70,HaEmek,28.0,30.434782608695652
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 61 - 70,Barzilai,11.0,19.642857142857142
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 71 - 80,HaEmek,16.0,17.391304347826086
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 71 - 80,Barzilai,12.0,21.428571428571427
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 80 +,HaEmek,2.0,2.1739130434782608
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, 80 +,Barzilai,15.0,26.785714285714285
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups, לא ידוע,Barzilai,2.0,3.5714285714285716
+HaEmek vs Barzilai,Colon antibiotics,method,LAP,HaEmek,48.0,52.17391304347826
+HaEmek vs Barzilai,Colon antibiotics,method,LAP,Barzilai,24.0,42.857142857142854
+HaEmek vs Barzilai,Colon antibiotics,method,OPEN,HaEmek,32.0,34.78260869565217
+HaEmek vs Barzilai,Colon antibiotics,method,OPEN,Barzilai,25.0,44.642857142857146
+HaEmek vs Barzilai,Colon antibiotics,method,לא ידוע,HaEmek,12.0,13.043478260869565
+HaEmek vs Barzilai,Colon antibiotics,method,לא ידוע,Barzilai,7.0,12.5
+HaEmek vs Barzilai,Hip fracture 48h,gender,זכר,HaEmek,82.0,32.669322709163346
+HaEmek vs Barzilai,Hip fracture 48h,gender,זכר,Barzilai,74.0,31.35593220338983
+HaEmek vs Barzilai,Hip fracture 48h,gender,נקבה,HaEmek,169.0,67.33067729083665
+HaEmek vs Barzilai,Hip fracture 48h,gender,נקבה,Barzilai,162.0,68.64406779661017
+HaEmek vs Barzilai,Hip fracture 48h,age_range, 65 - 84,HaEmek,169.0,67.33067729083665
+HaEmek vs Barzilai,Hip fracture 48h,age_range, 65 - 84,Barzilai,146.0,61.86440677966102
+HaEmek vs Barzilai,Hip fracture 48h,age_range, 85 +,HaEmek,82.0,32.669322709163346
+HaEmek vs Barzilai,Hip fracture 48h,age_range, 85 +,Barzilai,90.0,38.13559322033898
+HaEmek vs Barzilai,Hip fracture 48h,method,החלפה חלקית,HaEmek,2.0,0.796812749003984
+HaEmek vs Barzilai,Hip fracture 48h,method,החלפה חלקית,Barzilai,41.0,17.372881355932204
+HaEmek vs Barzilai,Hip fracture 48h,method,החלפה מלאה,HaEmek,79.0,31.47410358565737
+HaEmek vs Barzilai,Hip fracture 48h,method,החלפה מלאה,Barzilai,33.0,13.983050847457626
+HaEmek vs Barzilai,Hip fracture 48h,method,קיבוע,HaEmek,170.0,67.72908366533865
+HaEmek vs Barzilai,Hip fracture 48h,method,קיבוע,Barzilai,162.0,68.64406779661017
+HaEmek vs Barzilai,Hip fracture 48h,shift,בוקר,HaEmek,118.0,47.01195219123506
+HaEmek vs Barzilai,Hip fracture 48h,shift,בוקר,Barzilai,131.0,55.50847457627118
+HaEmek vs Barzilai,Hip fracture 48h,shift,ערב ולילה,HaEmek,133.0,52.98804780876494
+HaEmek vs Barzilai,Hip fracture 48h,shift,ערב ולילה,Barzilai,105.0,44.49152542372882
+Meir vs Kaplan,CHADS,gender,זכר,Meir,251.0,47.6280834914611
+Meir vs Kaplan,CHADS,gender,זכר,Kaplan,257.0,54.10526315789474
+Meir vs Kaplan,CHADS,gender,נקבה,Meir,276.0,52.3719165085389
+Meir vs Kaplan,CHADS,gender,נקבה,Kaplan,218.0,45.89473684210526
+Meir vs Kaplan,CHADS,age_range, 65 - 69,Meir,52.0,9.867172675521822
+Meir vs Kaplan,CHADS,age_range, 65 - 69,Kaplan,35.0,7.368421052631579
+Meir vs Kaplan,CHADS,age_range, 70 - 74,Meir,53.0,10.056925996204933
+Meir vs Kaplan,CHADS,age_range, 70 - 74,Kaplan,60.0,12.631578947368421
+Meir vs Kaplan,CHADS,age_range, 75 - 79,Meir,57.0,10.815939278937382
+Meir vs Kaplan,CHADS,age_range, 75 - 79,Kaplan,79.0,16.63157894736842
+Meir vs Kaplan,CHADS,age_range, 80 - 84,Meir,76.0,14.421252371916509
+Meir vs Kaplan,CHADS,age_range, 80 - 84,Kaplan,65.0,13.68421052631579
+Meir vs Kaplan,CHADS,age_range, 85 - 89,Meir,98.0,18.595825426944973
+Meir vs Kaplan,CHADS,age_range, 85 - 89,Kaplan,76.0,16.0
+Meir vs Kaplan,CHADS,age_range, 90 +,Meir,110.0,20.872865275142313
+Meir vs Kaplan,CHADS,age_range, 90 +,Kaplan,70.0,14.736842105263158
+Meir vs Kaplan,CHADS,age_range, עד 64,Meir,81.0,15.370018975332068
+Meir vs Kaplan,CHADS,age_range, עד 64,Kaplan,90.0,18.94736842105263
+Meir vs Kaplan,CHADS,day_range,א - ה,Meir,444.0,84.25047438330171
+Meir vs Kaplan,CHADS,day_range,א - ה,Kaplan,413.0,86.94736842105263
+Meir vs Kaplan,CHADS,day_range,ו - ש,Meir,83.0,15.749525616698293
+Meir vs Kaplan,CHADS,day_range,ו - ש,Kaplan,62.0,13.052631578947368
+Meir vs Kaplan,Colon antibiotics,gender,זכר,Meir,49.0,49.494949494949495
+Meir vs Kaplan,Colon antibiotics,gender,זכר,Kaplan,49.0,65.33333333333333
+Meir vs Kaplan,Colon antibiotics,gender,נקבה,Meir,50.0,50.505050505050505
+Meir vs Kaplan,Colon antibiotics,gender,נקבה,Kaplan,26.0,34.666666666666664
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 18 - 40,Meir,3.0,3.0303030303030303
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 18 - 40,Kaplan,1.0,1.3333333333333333
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 41 - 50,Meir,12.0,12.121212121212121
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 41 - 50,Kaplan,9.0,12.0
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 51 - 60,Meir,16.0,16.161616161616163
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 51 - 60,Kaplan,10.0,13.333333333333334
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 61 - 70,Meir,24.0,24.242424242424242
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 61 - 70,Kaplan,18.0,24.0
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 71 - 80,Meir,28.0,28.282828282828284
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 71 - 80,Kaplan,23.0,30.666666666666668
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 80 +,Meir,16.0,16.161616161616163
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups, 80 +,Kaplan,14.0,18.666666666666668
+Meir vs Kaplan,Colon antibiotics,method,LAP,Meir,57.0,57.57575757575758
+Meir vs Kaplan,Colon antibiotics,method,LAP,Kaplan,45.0,60.0
+Meir vs Kaplan,Colon antibiotics,method,OPEN,Meir,34.0,34.343434343434346
+Meir vs Kaplan,Colon antibiotics,method,OPEN,Kaplan,28.0,37.333333333333336
+Meir vs Kaplan,Colon antibiotics,method,לא ידוע,Meir,8.0,8.080808080808081
+Meir vs Kaplan,Colon antibiotics,method,לא ידוע,Kaplan,2.0,2.6666666666666665
+Meir vs Kaplan,Hip fracture 48h,gender,זכר,Meir,146.0,31.330472103004293
+Meir vs Kaplan,Hip fracture 48h,gender,זכר,Kaplan,75.0,30.864197530864196
+Meir vs Kaplan,Hip fracture 48h,gender,נקבה,Meir,320.0,68.6695278969957
+Meir vs Kaplan,Hip fracture 48h,gender,נקבה,Kaplan,168.0,69.1358024691358
+Meir vs Kaplan,Hip fracture 48h,age_range, 65 - 84,Meir,278.0,59.65665236051502
+Meir vs Kaplan,Hip fracture 48h,age_range, 65 - 84,Kaplan,153.0,62.96296296296296
+Meir vs Kaplan,Hip fracture 48h,age_range, 85 +,Meir,188.0,40.34334763948498
+Meir vs Kaplan,Hip fracture 48h,age_range, 85 +,Kaplan,89.0,36.62551440329218
+Meir vs Kaplan,Hip fracture 48h,age_range, לא ידוע,Kaplan,1.0,0.411522633744856
+Meir vs Kaplan,Hip fracture 48h,method,החלפה חלקית,Meir,128.0,27.467811158798284
+Meir vs Kaplan,Hip fracture 48h,method,החלפה חלקית,Kaplan,40.0,16.46090534979424
+Meir vs Kaplan,Hip fracture 48h,method,החלפה מלאה,Meir,19.0,4.07725321888412
+Meir vs Kaplan,Hip fracture 48h,method,החלפה מלאה,Kaplan,53.0,21.810699588477366
+Meir vs Kaplan,Hip fracture 48h,method,קיבוע,Meir,319.0,68.45493562231759
+Meir vs Kaplan,Hip fracture 48h,method,קיבוע,Kaplan,150.0,61.72839506172839
+Meir vs Kaplan,Hip fracture 48h,shift,בוקר,Meir,196.0,42.06008583690987
+Meir vs Kaplan,Hip fracture 48h,shift,בוקר,Kaplan,175.0,72.01646090534979
+Meir vs Kaplan,Hip fracture 48h,shift,ערב ולילה,Meir,270.0,57.93991416309013
+Meir vs Kaplan,Hip fracture 48h,shift,ערב ולילה,Kaplan,68.0,27.983539094650205

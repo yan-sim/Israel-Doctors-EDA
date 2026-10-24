@@ -1,0 +1,4 @@
+benchmark,oecd_countries_reporting,benchmark_practising_per_1000,israel_practising_per_1000,gap_per_1000,equivalent_extra_practising_physicians_israel_population
+OECD median (reporting countries),32,3.79,3.39,0.3999999999999999,3749
+OECD mean (reporting countries),32,3.771875,3.39,0.38187499999999996,3579
+Highest reported country (descriptive),32,5.42,3.39,2.03,19024

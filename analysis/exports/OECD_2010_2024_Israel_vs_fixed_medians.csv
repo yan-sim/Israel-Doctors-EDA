@@ -1,0 +1,136 @@
+﻿year,metric,series,value,OECD_reporting_countries_n,fixed_countries_n
+2010,graduates_per_100k,Israel,4.12,35,34
+2010,graduates_per_100k,OECD available-case median,11.19,35,34
+2010,graduates_per_100k,OECD fixed-country median,10.795,35,34
+2011,graduates_per_100k,Israel,4.85,35,34
+2011,graduates_per_100k,OECD available-case median,10.82,35,34
+2011,graduates_per_100k,OECD fixed-country median,10.76,35,34
+2012,graduates_per_100k,Israel,3.84,35,34
+2012,graduates_per_100k,OECD available-case median,11.16,35,34
+2012,graduates_per_100k,OECD fixed-country median,11.09,35,34
+2013,graduates_per_100k,Israel,5.06,35,34
+2013,graduates_per_100k,OECD available-case median,10.53,35,34
+2013,graduates_per_100k,OECD fixed-country median,10.45,35,34
+2014,graduates_per_100k,Israel,6.29,36,34
+2014,graduates_per_100k,OECD available-case median,11.535,36,34
+2014,graduates_per_100k,OECD fixed-country median,11.375,36,34
+2015,graduates_per_100k,Israel,5.47,36,34
+2015,graduates_per_100k,OECD available-case median,11.73,36,34
+2015,graduates_per_100k,OECD fixed-country median,11.344999999999999,36,34
+2016,graduates_per_100k,Israel,6.76,36,34
+2016,graduates_per_100k,OECD available-case median,12.215,36,34
+2016,graduates_per_100k,OECD fixed-country median,12.004999999999999,36,34
+2017,graduates_per_100k,Israel,6.9,36,34
+2017,graduates_per_100k,OECD available-case median,12.879999999999999,36,34
+2017,graduates_per_100k,OECD fixed-country median,12.43,36,34
+2018,graduates_per_100k,Israel,7.41,36,34
+2018,graduates_per_100k,OECD available-case median,13.02,36,34
+2018,graduates_per_100k,OECD fixed-country median,12.815,36,34
+2019,graduates_per_100k,Israel,7.22,36,34
+2019,graduates_per_100k,OECD available-case median,13.120000000000001,36,34
+2019,graduates_per_100k,OECD fixed-country median,12.965,36,34
+2020,graduates_per_100k,Israel,6.93,36,34
+2020,graduates_per_100k,OECD available-case median,13.469999999999999,36,34
+2020,graduates_per_100k,OECD fixed-country median,13.469999999999999,36,34
+2021,graduates_per_100k,Israel,6.8,37,34
+2021,graduates_per_100k,OECD available-case median,13.94,37,34
+2021,graduates_per_100k,OECD fixed-country median,14.045,37,34
+2022,graduates_per_100k,Israel,7.22,37,34
+2022,graduates_per_100k,OECD available-case median,13.51,37,34
+2022,graduates_per_100k,OECD fixed-country median,13.67,37,34
+2023,graduates_per_100k,Israel,7.21,36,34
+2023,graduates_per_100k,OECD available-case median,13.91,36,34
+2023,graduates_per_100k,OECD fixed-country median,13.91,36,34
+2024,graduates_per_100k,Israel,11.36,36,34
+2024,graduates_per_100k,OECD available-case median,14.72,36,34
+2024,graduates_per_100k,OECD fixed-country median,14.72,36,34
+2010,foreign_trained_pct,Israel,59.97,23,19
+2010,foreign_trained_pct,OECD available-case median,8.2,23,19
+2010,foreign_trained_pct,OECD fixed-country median,7.73,23,19
+2011,foreign_trained_pct,Israel,59.84,25,19
+2011,foreign_trained_pct,OECD available-case median,8.8,25,19
+2011,foreign_trained_pct,OECD fixed-country median,8.436,25,19
+2012,foreign_trained_pct,Israel,59.48,25,19
+2012,foreign_trained_pct,OECD available-case median,10.13,25,19
+2012,foreign_trained_pct,OECD fixed-country median,8.72,25,19
+2013,foreign_trained_pct,Israel,59.11,25,19
+2013,foreign_trained_pct,OECD available-case median,10.73,25,19
+2013,foreign_trained_pct,OECD fixed-country median,8.81,25,19
+2014,foreign_trained_pct,Israel,58.56,27,19
+2014,foreign_trained_pct,OECD available-case median,11.4,27,19
+2014,foreign_trained_pct,OECD fixed-country median,9.51,27,19
+2015,foreign_trained_pct,Israel,58.48,28,19
+2015,foreign_trained_pct,OECD available-case median,11.56,28,19
+2015,foreign_trained_pct,OECD fixed-country median,10.24,28,19
+2016,foreign_trained_pct,Israel,58.12,28,19
+2016,foreign_trained_pct,OECD available-case median,11.9,28,19
+2016,foreign_trained_pct,OECD fixed-country median,11.02,28,19
+2017,foreign_trained_pct,Israel,57.85,28,19
+2017,foreign_trained_pct,OECD available-case median,12.05,28,19
+2017,foreign_trained_pct,OECD fixed-country median,11.375,28,19
+2018,foreign_trained_pct,Israel,57.93,27,19
+2018,foreign_trained_pct,OECD available-case median,12.24,27,19
+2018,foreign_trained_pct,OECD fixed-country median,11.64,27,19
+2019,foreign_trained_pct,Israel,57.81,28,19
+2019,foreign_trained_pct,OECD available-case median,12.77,28,19
+2019,foreign_trained_pct,OECD fixed-country median,11.81,28,19
+2020,foreign_trained_pct,Israel,57.83,28,19
+2020,foreign_trained_pct,OECD available-case median,13.175,28,19
+2020,foreign_trained_pct,OECD fixed-country median,12.048,28,19
+2021,foreign_trained_pct,Israel,57.83,28,19
+2021,foreign_trained_pct,OECD available-case median,13.495000000000001,28,19
+2021,foreign_trained_pct,OECD fixed-country median,12.327,28,19
+2022,foreign_trained_pct,Israel,57.99,28,19
+2022,foreign_trained_pct,OECD available-case median,13.93,28,19
+2022,foreign_trained_pct,OECD fixed-country median,12.717,28,19
+2023,foreign_trained_pct,Israel,58.51,28,19
+2023,foreign_trained_pct,OECD available-case median,14.472999999999999,28,19
+2023,foreign_trained_pct,OECD fixed-country median,10.954,28,19
+2024,foreign_trained_pct,Israel,59.13,27,19
+2024,foreign_trained_pct,OECD available-case median,15.65,27,19
+2024,foreign_trained_pct,OECD fixed-country median,11.495,27,19
+2010,practising_per_1000,Israel,3.01,29,26
+2010,practising_per_1000,OECD available-case median,3.03,29,26
+2010,practising_per_1000,OECD fixed-country median,3.035,29,26
+2011,practising_per_1000,Israel,3.0,30,26
+2011,practising_per_1000,OECD available-case median,3.06,30,26
+2011,practising_per_1000,OECD fixed-country median,3.06,30,26
+2012,practising_per_1000,Israel,2.97,31,26
+2012,practising_per_1000,OECD available-case median,3.09,31,26
+2012,practising_per_1000,OECD fixed-country median,3.115,31,26
+2013,practising_per_1000,Israel,2.94,30,26
+2013,practising_per_1000,OECD available-case median,3.205,30,26
+2013,practising_per_1000,OECD fixed-country median,3.205,30,26
+2014,practising_per_1000,Israel,2.98,31,26
+2014,practising_per_1000,OECD available-case median,3.25,31,26
+2014,practising_per_1000,OECD fixed-country median,3.285,31,26
+2015,practising_per_1000,Israel,3.07,30,26
+2015,practising_per_1000,OECD available-case median,3.2350000000000003,30,26
+2015,practising_per_1000,OECD fixed-country median,3.2350000000000003,30,26
+2016,practising_per_1000,Israel,3.08,31,26
+2016,practising_per_1000,OECD available-case median,3.23,31,26
+2016,practising_per_1000,OECD fixed-country median,3.2649999999999997,31,26
+2017,practising_per_1000,Israel,3.14,30,26
+2017,practising_per_1000,OECD available-case median,3.34,30,26
+2017,practising_per_1000,OECD fixed-country median,3.34,30,26
+2018,practising_per_1000,Israel,3.22,32,26
+2018,practising_per_1000,OECD available-case median,3.38,32,26
+2018,practising_per_1000,OECD fixed-country median,3.38,32,26
+2019,practising_per_1000,Israel,3.29,31,26
+2019,practising_per_1000,OECD available-case median,3.47,31,26
+2019,practising_per_1000,OECD fixed-country median,3.425,31,26
+2020,practising_per_1000,Israel,3.31,32,26
+2020,practising_per_1000,OECD available-case median,3.46,32,26
+2020,practising_per_1000,OECD fixed-country median,3.46,32,26
+2021,practising_per_1000,Israel,3.39,32,26
+2021,practising_per_1000,OECD available-case median,3.79,32,26
+2021,practising_per_1000,OECD fixed-country median,3.53,32,26
+2022,practising_per_1000,Israel,3.47,33,26
+2022,practising_per_1000,OECD available-case median,3.65,33,26
+2022,practising_per_1000,OECD fixed-country median,3.61,33,26
+2023,practising_per_1000,Israel,3.51,32,26
+2023,practising_per_1000,OECD available-case median,3.915,32,26
+2023,practising_per_1000,OECD fixed-country median,3.705,32,26
+2024,practising_per_1000,Israel,3.64,33,26
+2024,practising_per_1000,OECD available-case median,3.94,33,26
+2024,practising_per_1000,OECD fixed-country median,3.79,33,26

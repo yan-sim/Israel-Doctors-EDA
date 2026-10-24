@@ -1,0 +1,161 @@
+﻿hospital_id,hospital_name_he,specialty_he,unapproved_residents_pct,measurement_year,measurement_month,source_page_printed,source_url
+kaplan,מרכז רפואי קפלן,רפואה פנימית,80,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,רפואה פנימית,24,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",רפואה פנימית,3,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,רפואה פנימית,42,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,רפואה פנימית,27,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",רפואה פנימית,11,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,רפואה פנימית,37,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",רפואה פנימית,3,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,רפואה פנימית,12,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",רפואה פנימית,11,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,רפואת ילדים,14,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,רפואת ילדים,13,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",רפואת ילדים,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,רפואת ילדים,3,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,רפואת ילדים,10,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",רפואת ילדים,3,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,רפואת ילדים,16,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",רפואת ילדים,3,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,רפואת ילדים,6,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",רפואת ילדים,7,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,יילוד וגינקולוגיה,11,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,יילוד וגינקולוגיה,4,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",יילוד וגינקולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,יילוד וגינקולוגיה,15,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,יילוד וגינקולוגיה,6,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",יילוד וגינקולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,יילוד וגינקולוגיה,5,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",יילוד וגינקולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,יילוד וגינקולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",יילוד וגינקולוגיה,3,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,הרדמה,70,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,הרדמה,23,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",הרדמה,32,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,הרדמה,76,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,הרדמה,92,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",הרדמה,44,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,הרדמה,73,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",הרדמה,65,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,הרדמה,62,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",הרדמה,16,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,כירורגיה אורתופדית,38,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,כירורגיה אורתופדית,20,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",כירורגיה אורתופדית,7,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,כירורגיה אורתופדית,33,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,כירורגיה אורתופדית,15,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",כירורגיה אורתופדית,18,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,כירורגיה אורתופדית,28,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",כירורגיה אורתופדית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,כירורגיה אורתופדית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",כירורגיה אורתופדית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,כירורגיה כללית,47,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,כירורגיה כללית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",כירורגיה כללית,29,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,כירורגיה כללית,6,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,כירורגיה כללית,31,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",כירורגיה כללית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,כירורגיה כללית,46,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",כירורגיה כללית,21,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,כירורגיה כללית,3,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",כירורגיה כללית,4,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,פסיכיאטריה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,פסיכיאטריה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",פסיכיאטריה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,פסיכיאטריה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,פסיכיאטריה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",פסיכיאטריה,13,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,פסיכיאטריה,50,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",פסיכיאטריה,38,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,פסיכיאטריה,29,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",פסיכיאטריה,14,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,רפואה דחופה,77,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,רפואה דחופה,50,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",רפואה דחופה,21,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,רפואה דחופה,10,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,רפואה דחופה,60,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",רפואה דחופה,42,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,רפואה דחופה,73,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",רפואה דחופה,29,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,רפואה דחופה,30,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",רפואה דחופה,14,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,גריאטריה,78,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,גריאטריה,50,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",גריאטריה,40,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,גריאטריה,100,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,גריאטריה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",גריאטריה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,גריאטריה,67,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",גריאטריה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,גריאטריה,69,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",גריאטריה,38,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,רדיולוגיה אבחנתית,50,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,רדיולוגיה אבחנתית,70,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",רדיולוגיה אבחנתית,11,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,רדיולוגיה אבחנתית,20,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,רדיולוגיה אבחנתית,50,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",רדיולוגיה אבחנתית,14,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,רדיולוגיה אבחנתית,40,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",רדיולוגיה אבחנתית,8,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,רדיולוגיה אבחנתית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",רדיולוגיה אבחנתית,21,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,מחלות עיניים,25,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,מחלות עיניים,8,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",מחלות עיניים,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,מחלות עיניים,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,מחלות עיניים,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",מחלות עיניים,9,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,מחלות עיניים,17,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",מחלות עיניים,14,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,מחלות עיניים,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",מחלות עיניים,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,מחלות א.א.ג וכירורגיה של ראש וצוואר,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,מחלות א.א.ג וכירורגיה של ראש וצוואר,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",מחלות א.א.ג וכירורגיה של ראש וצוואר,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,מחלות א.א.ג וכירורגיה של ראש וצוואר,30,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,מחלות א.א.ג וכירורגיה של ראש וצוואר,11,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",מחלות א.א.ג וכירורגיה של ראש וצוואר,13,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,מחלות א.א.ג וכירורגיה של ראש וצוואר,9,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",מחלות א.א.ג וכירורגיה של ראש וצוואר,20,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,מחלות א.א.ג וכירורגיה של ראש וצוואר,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",מחלות א.א.ג וכירורגיה של ראש וצוואר,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,נוירולוגיה,33,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,נוירולוגיה,11,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",נוירולוגיה,9,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,נוירולוגיה,25,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,נוירולוגיה,50,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",נוירולוגיה,9,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,נוירולוגיה,50,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",נוירולוגיה,13,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,נוירולוגיה,17,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",נוירולוגיה,6,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,קרדיולוגיה,56,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,קרדיולוגיה,40,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",קרדיולוגיה,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,קרדיולוגיה,14,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,קרדיולוגיה,75,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",קרדיולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,קרדיולוגיה,17,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",קרדיולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,קרדיולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",קרדיולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,אונקולוגיה,100,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,אונקולוגיה,100,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",אונקולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,אונקולוגיה,75,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,אונקולוגיה,67,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",אונקולוגיה,27,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,אונקולוגיה,63,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",אונקולוגיה,10,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,אונקולוגיה,13,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",אונקולוגיה,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+kaplan,מרכז רפואי קפלן,כירורגיה אורולוגית,29,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+meir,מרכז רפואי מאיר,כירורגיה אורולוגית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+beilinson,"ביה""ח בילינסון",כירורגיה אורולוגית,,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shaare_zedek,מרכז רפואי שערי צדק,כירורגיה אורולוגית,14,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+shamir,מרכז רפואי יצחק שמיר,כירורגיה אורולוגית,13,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+hadassah_ein_kerem,"ביה""ח הדסה עין כרם",כירורגיה אורולוגית,20,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+soroka,מרכז רפואי סורוקה,כירורגיה אורולוגית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+rambam,"מרכז רפואי רמב""ם",כירורגיה אורולוגית,29,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sheba,מרכז רפואי שיבא,כירורגיה אורולוגית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf
+sourasky,"מרכז רפואי ת""א סוראסקי",כירורגיה אורולוגית,0,2020,7,37,https://img.haarets.co.il/bs/00000180-5b9a-d615-a9bf-dfda53c10000/dd/2c/1af11af4974fa3986d8019655512/20220407-111150.pdf

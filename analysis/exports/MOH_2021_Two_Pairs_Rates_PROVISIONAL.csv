@@ -1,0 +1,13 @@
+﻿hospital_id,metric_short,cases,approved_if_blank_zero,blank_numerator_rows,rate_if_blank_zero_pct,hospital,pair,failures_if_blank_zero
+8,CHADS,385.0,364.0,5,94.54545454545455,HaEmek,HaEmek vs Barzilai,21.0
+9,CHADS,527.0,411.0,16,77.98861480075901,Meir,Meir vs Kaplan,116.0
+19,CHADS,475.0,410.0,9,86.3157894736842,Kaplan,Meir vs Kaplan,65.0
+25,CHADS,749.0,711.0,2,94.92656875834446,Barzilai,HaEmek vs Barzilai,38.0
+8,Colon antibiotics,92.0,90.0,2,97.82608695652173,HaEmek,HaEmek vs Barzilai,2.0
+9,Colon antibiotics,99.0,94.0,5,94.94949494949495,Meir,Meir vs Kaplan,5.0
+19,Colon antibiotics,75.0,72.0,3,96.0,Kaplan,Meir vs Kaplan,3.0
+25,Colon antibiotics,56.0,51.0,5,91.07142857142857,Barzilai,HaEmek vs Barzilai,5.0
+8,Hip fracture 48h,251.0,209.0,42,83.26693227091633,HaEmek,HaEmek vs Barzilai,42.0
+9,Hip fracture 48h,466.0,398.0,68,85.4077253218884,Meir,Meir vs Kaplan,68.0
+19,Hip fracture 48h,243.0,231.0,12,95.06172839506173,Kaplan,Meir vs Kaplan,12.0
+25,Hip fracture 48h,236.0,205.0,31,86.86440677966101,Barzilai,HaEmek vs Barzilai,31.0

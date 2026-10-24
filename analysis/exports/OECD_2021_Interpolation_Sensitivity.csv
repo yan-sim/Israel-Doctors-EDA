@@ -1,0 +1,9 @@
+﻿version,metric_pair,countries_n,pearson_r
+original,foreign_pct vs graduates_100k,27,-0.3582693977441985
+original,foreign_pct vs practising_1k,25,-0.13197467733139454
+original,graduates_100k vs practising_1k,31,0.2204260662092119
+original,ALL THREE (sample size only),24,
+interpolated,foreign_pct vs graduates_100k,27,-0.3582693977441985
+interpolated,foreign_pct vs practising_1k,25,-0.13197467733139454
+interpolated,graduates_100k vs practising_1k,32,0.2704298595661554
+interpolated,ALL THREE (sample size only),24,

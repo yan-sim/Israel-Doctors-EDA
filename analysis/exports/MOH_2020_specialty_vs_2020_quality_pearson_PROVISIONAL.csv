@@ -1,0 +1,4 @@
+specialty_he,metric_short,n_hospitals,pearson_r,pearson_p_value
+קרדיולוגיה,CHADS,9,-0.7504344039303302,0.019830295663452322
+כירורגיה כללית,Colon antibiotics,10,-0.19125496864936925,0.5966001580651564
+כירורגיה אורתופדית,Hip fracture 48h,10,0.4447829980791137,0.1977488937539266

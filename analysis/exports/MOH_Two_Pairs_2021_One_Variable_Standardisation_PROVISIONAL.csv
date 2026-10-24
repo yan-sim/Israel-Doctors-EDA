@@ -1,0 +1,41 @@
+﻿pair,metric,stratification,hospital,adjusted_rate_pct,share_cases_with_common_strata,n_common_strata
+HaEmek vs Barzilai,CHADS,gender,HaEmek,94.58250656888231,1.0,2
+HaEmek vs Barzilai,CHADS,gender,Barzilai,94.90660391741878,1.0,2
+HaEmek vs Barzilai,CHADS,age_range,HaEmek,94.5547086787478,1.0,7
+HaEmek vs Barzilai,CHADS,age_range,Barzilai,94.94441476567866,1.0,7
+HaEmek vs Barzilai,CHADS,day_range,HaEmek,94.52180431939261,1.0,2
+HaEmek vs Barzilai,CHADS,day_range,Barzilai,94.81227951207524,1.0,2
+HaEmek vs Barzilai,Colon antibiotics,gender,HaEmek,97.83988533988534,1.0,2
+HaEmek vs Barzilai,Colon antibiotics,gender,Barzilai,90.47297297297297,1.0,2
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups,HaEmek,98.24764276819072,1.0,6
+HaEmek vs Barzilai,Colon antibiotics,detailed_age_range_groups,Barzilai,89.94603569946034,0.9642857142857143,6
+HaEmek vs Barzilai,Colon antibiotics,method,HaEmek,97.7829391891892,1.0,3
+HaEmek vs Barzilai,Colon antibiotics,method,Barzilai,91.51737451737452,1.0,3
+HaEmek vs Barzilai,Hip fracture 48h,gender,HaEmek,83.2932030157452,1.0,2
+HaEmek vs Barzilai,Hip fracture 48h,gender,Barzilai,86.84735385625187,1.0,2
+HaEmek vs Barzilai,Hip fracture 48h,age_range,HaEmek,83.25355179241015,1.0,2
+HaEmek vs Barzilai,Hip fracture 48h,age_range,Barzilai,87.07581283851994,1.0,2
+HaEmek vs Barzilai,Hip fracture 48h,method,HaEmek,81.12184098550397,1.0,3
+HaEmek vs Barzilai,Hip fracture 48h,method,Barzilai,87.0830641602415,1.0,3
+HaEmek vs Barzilai,Hip fracture 48h,shift,HaEmek,83.2501415024353,1.0,2
+HaEmek vs Barzilai,Hip fracture 48h,shift,Barzilai,87.22447764001441,1.0,2
+Meir vs Kaplan,CHADS,gender,Meir,77.7608389664461,1.0,2
+Meir vs Kaplan,CHADS,gender,Kaplan,86.36868981488706,1.0,2
+Meir vs Kaplan,CHADS,age_range,Meir,78.68490042085821,1.0,7
+Meir vs Kaplan,CHADS,age_range,Kaplan,86.17008302922284,1.0,7
+Meir vs Kaplan,CHADS,day_range,Meir,78.00197120141569,1.0,2
+Meir vs Kaplan,CHADS,day_range,Kaplan,86.35484245131543,1.0,2
+Meir vs Kaplan,Colon antibiotics,gender,Meir,94.80459770114942,1.0,2
+Meir vs Kaplan,Colon antibiotics,gender,Kaplan,96.0212201591512,1.0,2
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups,Meir,94.97126436781609,1.0,6
+Meir vs Kaplan,Colon antibiotics,detailed_age_range_groups,Kaplan,96.19594964422551,1.0,6
+Meir vs Kaplan,Colon antibiotics,method,Meir,95.08958755916159,1.0,3
+Meir vs Kaplan,Colon antibiotics,method,Kaplan,96.15216201423098,1.0,3
+Meir vs Kaplan,Hip fracture 48h,gender,Meir,85.39926966400681,1.0,2
+Meir vs Kaplan,Hip fracture 48h,gender,Kaplan,95.05406676069582,1.0,2
+Meir vs Kaplan,Hip fracture 48h,age_range,Meir,85.4464913464108,1.0,2
+Meir vs Kaplan,Hip fracture 48h,age_range,Kaplan,95.05856131148792,0.9958847736625515,2
+Meir vs Kaplan,Hip fracture 48h,method,Meir,85.08009717379653,1.0,3
+Meir vs Kaplan,Hip fracture 48h,method,Kaplan,95.40282619687574,1.0,3
+Meir vs Kaplan,Hip fracture 48h,shift,Meir,85.19081947149647,1.0,2
+Meir vs Kaplan,Hip fracture 48h,shift,Kaplan,94.80361735667469,1.0,2

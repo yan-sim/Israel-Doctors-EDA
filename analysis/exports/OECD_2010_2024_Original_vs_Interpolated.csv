@@ -1,0 +1,1636 @@
+﻿country_code,year,value_original,source_row_exists,is_imputed,value_for_sensitivity,indicator
+ARG,2010,,False,False,,Foreign-trained physicians (%)
+ARG,2011,,False,False,,Foreign-trained physicians (%)
+ARG,2012,3.73,True,False,3.73,Foreign-trained physicians (%)
+ARG,2013,4.04,True,False,4.04,Foreign-trained physicians (%)
+ARG,2014,4.62,True,False,4.62,Foreign-trained physicians (%)
+ARG,2015,5.08,True,False,5.08,Foreign-trained physicians (%)
+ARG,2016,5.47,True,False,5.47,Foreign-trained physicians (%)
+ARG,2017,6.18,True,False,6.18,Foreign-trained physicians (%)
+ARG,2018,6.63,True,False,6.63,Foreign-trained physicians (%)
+ARG,2019,7.04,True,False,7.04,Foreign-trained physicians (%)
+ARG,2020,7.07,True,False,7.07,Foreign-trained physicians (%)
+ARG,2021,7.12,True,False,7.12,Foreign-trained physicians (%)
+ARG,2022,7.55,True,False,7.55,Foreign-trained physicians (%)
+ARG,2023,7.42,True,False,7.42,Foreign-trained physicians (%)
+ARG,2024,,False,False,,Foreign-trained physicians (%)
+AUS,2010,,False,False,,Foreign-trained physicians (%)
+AUS,2011,,False,False,,Foreign-trained physicians (%)
+AUS,2012,33.076,True,False,33.076,Foreign-trained physicians (%)
+AUS,2013,29.701,True,False,29.701,Foreign-trained physicians (%)
+AUS,2014,31.734,True,False,31.734,Foreign-trained physicians (%)
+AUS,2015,32.349,True,False,32.349,Foreign-trained physicians (%)
+AUS,2016,32.678,True,False,32.678,Foreign-trained physicians (%)
+AUS,2017,32.074,True,False,32.074,Foreign-trained physicians (%)
+AUS,2018,32.46,True,False,32.46,Foreign-trained physicians (%)
+AUS,2019,32.543,True,False,32.543,Foreign-trained physicians (%)
+AUS,2020,32.3,True,False,32.3,Foreign-trained physicians (%)
+AUS,2021,32.19,True,False,32.19,Foreign-trained physicians (%)
+AUS,2022,31.88,True,False,31.88,Foreign-trained physicians (%)
+AUS,2023,31.42,True,False,31.42,Foreign-trained physicians (%)
+AUS,2024,31.18,True,False,31.18,Foreign-trained physicians (%)
+AUT,2010,3.9,True,False,3.9,Foreign-trained physicians (%)
+AUT,2011,4.08,True,False,4.08,Foreign-trained physicians (%)
+AUT,2012,4.35,True,False,4.35,Foreign-trained physicians (%)
+AUT,2013,4.57,True,False,4.57,Foreign-trained physicians (%)
+AUT,2014,5.06,True,False,5.06,Foreign-trained physicians (%)
+AUT,2015,5.14,True,False,5.14,Foreign-trained physicians (%)
+AUT,2016,5.47,True,False,5.47,Foreign-trained physicians (%)
+AUT,2017,5.77,True,False,5.77,Foreign-trained physicians (%)
+AUT,2018,5.97,True,False,5.97,Foreign-trained physicians (%)
+AUT,2019,6.37,True,False,6.37,Foreign-trained physicians (%)
+AUT,2020,6.54,True,False,6.54,Foreign-trained physicians (%)
+AUT,2021,6.82,True,False,6.82,Foreign-trained physicians (%)
+AUT,2022,7.16,True,False,7.16,Foreign-trained physicians (%)
+AUT,2023,7.51,True,False,7.51,Foreign-trained physicians (%)
+AUT,2024,7.78,True,False,7.78,Foreign-trained physicians (%)
+BEL,2010,8.2,True,False,8.2,Foreign-trained physicians (%)
+BEL,2011,9.18,True,False,9.18,Foreign-trained physicians (%)
+BEL,2012,10.13,True,False,10.13,Foreign-trained physicians (%)
+BEL,2013,10.73,True,False,10.73,Foreign-trained physicians (%)
+BEL,2014,11.4,True,False,11.4,Foreign-trained physicians (%)
+BEL,2015,11.46,True,False,11.46,Foreign-trained physicians (%)
+BEL,2016,11.91,True,False,11.91,Foreign-trained physicians (%)
+BEL,2017,12.26,True,False,12.26,Foreign-trained physicians (%)
+BEL,2018,12.11,True,False,12.11,Foreign-trained physicians (%)
+BEL,2019,12.42,True,False,12.42,Foreign-trained physicians (%)
+BEL,2020,12.7,True,False,12.7,Foreign-trained physicians (%)
+BEL,2021,13.22,True,False,13.22,Foreign-trained physicians (%)
+BEL,2022,13.51,True,False,13.51,Foreign-trained physicians (%)
+BEL,2023,13.966,True,False,13.966,Foreign-trained physicians (%)
+BEL,2024,14.301,True,False,14.301,Foreign-trained physicians (%)
+CAN,2010,23.198,True,False,23.198,Foreign-trained physicians (%)
+CAN,2011,23.619,True,False,23.619,Foreign-trained physicians (%)
+CAN,2012,23.811,True,False,23.811,Foreign-trained physicians (%)
+CAN,2013,23.922,True,False,23.922,Foreign-trained physicians (%)
+CAN,2014,24.093,True,False,24.093,Foreign-trained physicians (%)
+CAN,2015,24.101,True,False,24.101,Foreign-trained physicians (%)
+CAN,2016,24.313,True,False,24.313,Foreign-trained physicians (%)
+CAN,2017,24.704,True,False,24.704,Foreign-trained physicians (%)
+CAN,2018,24.601,True,False,24.601,Foreign-trained physicians (%)
+CAN,2019,24.424,True,False,24.424,Foreign-trained physicians (%)
+CAN,2020,24.102,True,False,24.102,Foreign-trained physicians (%)
+CAN,2021,24.113,True,False,24.113,Foreign-trained physicians (%)
+CAN,2022,24.395,True,False,24.395,Foreign-trained physicians (%)
+CAN,2023,24.605,True,False,24.605,Foreign-trained physicians (%)
+CAN,2024,24.895,True,False,24.895,Foreign-trained physicians (%)
+CHE,2010,24.127,True,False,24.127,Foreign-trained physicians (%)
+CHE,2011,25.31,True,False,25.31,Foreign-trained physicians (%)
+CHE,2012,27.023,True,False,27.023,Foreign-trained physicians (%)
+CHE,2013,29.348,True,False,29.348,Foreign-trained physicians (%)
+CHE,2014,30.505,True,False,30.505,Foreign-trained physicians (%)
+CHE,2015,31.53,True,False,31.53,Foreign-trained physicians (%)
+CHE,2016,32.896,True,False,32.896,Foreign-trained physicians (%)
+CHE,2017,34.065,True,False,34.065,Foreign-trained physicians (%)
+CHE,2018,35.352,True,False,35.352,Foreign-trained physicians (%)
+CHE,2019,36.3,True,False,36.3,Foreign-trained physicians (%)
+CHE,2020,37.36,True,False,37.36,Foreign-trained physicians (%)
+CHE,2021,38.44,True,False,38.44,Foreign-trained physicians (%)
+CHE,2022,39.46,True,False,39.46,Foreign-trained physicians (%)
+CHE,2023,40.324,True,False,40.324,Foreign-trained physicians (%)
+CHE,2024,41.27,True,False,41.27,Foreign-trained physicians (%)
+CHL,2010,,False,False,,Foreign-trained physicians (%)
+CHL,2011,,False,False,,Foreign-trained physicians (%)
+CHL,2012,,False,False,,Foreign-trained physicians (%)
+CHL,2013,,False,False,,Foreign-trained physicians (%)
+CHL,2014,15.24,True,False,15.24,Foreign-trained physicians (%)
+CHL,2015,16.12,True,False,16.12,Foreign-trained physicians (%)
+CHL,2016,17.87,True,False,17.87,Foreign-trained physicians (%)
+CHL,2017,21.27,True,False,21.27,Foreign-trained physicians (%)
+CHL,2018,22.74,True,False,22.74,Foreign-trained physicians (%)
+CHL,2019,20.82,True,False,20.82,Foreign-trained physicians (%)
+CHL,2020,22.97,True,False,22.97,Foreign-trained physicians (%)
+CHL,2021,23.39,True,False,23.39,Foreign-trained physicians (%)
+CHL,2022,24.79,True,False,24.79,Foreign-trained physicians (%)
+CHL,2023,24.9,True,False,24.9,Foreign-trained physicians (%)
+CHL,2024,24.17,True,False,24.17,Foreign-trained physicians (%)
+COL,2010,,False,False,,Foreign-trained physicians (%)
+COL,2011,4.06,True,False,4.06,Foreign-trained physicians (%)
+COL,2012,4.03,True,False,4.03,Foreign-trained physicians (%)
+COL,2013,4.05,True,False,4.05,Foreign-trained physicians (%)
+COL,2014,4.2,True,False,4.2,Foreign-trained physicians (%)
+COL,2015,4.36,True,False,4.36,Foreign-trained physicians (%)
+COL,2016,4.71,True,False,4.71,Foreign-trained physicians (%)
+COL,2017,5.09,True,False,5.09,Foreign-trained physicians (%)
+COL,2018,5.21,True,False,5.21,Foreign-trained physicians (%)
+COL,2019,5.14,True,False,5.14,Foreign-trained physicians (%)
+COL,2020,5.1,True,False,5.1,Foreign-trained physicians (%)
+COL,2021,5.12,True,False,5.12,Foreign-trained physicians (%)
+COL,2022,5.16,True,False,5.16,Foreign-trained physicians (%)
+COL,2023,5.14,True,False,5.14,Foreign-trained physicians (%)
+COL,2024,5.09,True,False,5.09,Foreign-trained physicians (%)
+CYP,2010,,False,False,,Foreign-trained physicians (%)
+CYP,2011,,False,False,,Foreign-trained physicians (%)
+CYP,2012,,False,False,,Foreign-trained physicians (%)
+CYP,2013,,False,False,,Foreign-trained physicians (%)
+CYP,2014,100.0,True,False,100.0,Foreign-trained physicians (%)
+CYP,2015,100.0,True,False,100.0,Foreign-trained physicians (%)
+CYP,2016,100.0,True,False,100.0,Foreign-trained physicians (%)
+CYP,2017,100.0,True,False,100.0,Foreign-trained physicians (%)
+CYP,2018,100.0,True,False,100.0,Foreign-trained physicians (%)
+CYP,2019,99.23,True,False,99.23,Foreign-trained physicians (%)
+CYP,2020,97.886,True,False,97.886,Foreign-trained physicians (%)
+CYP,2021,97.194,True,False,97.194,Foreign-trained physicians (%)
+CYP,2022,95.692,True,False,95.692,Foreign-trained physicians (%)
+CYP,2023,93.827,True,False,93.827,Foreign-trained physicians (%)
+CYP,2024,92.701,True,False,92.701,Foreign-trained physicians (%)
+CZE,2010,4.4,True,False,4.4,Foreign-trained physicians (%)
+CZE,2011,4.71,True,False,4.71,Foreign-trained physicians (%)
+CZE,2012,5.09,True,False,5.09,Foreign-trained physicians (%)
+CZE,2013,4.66,True,False,4.66,Foreign-trained physicians (%)
+CZE,2014,4.89,True,False,4.89,Foreign-trained physicians (%)
+CZE,2015,6.1,True,False,6.1,Foreign-trained physicians (%)
+CZE,2016,6.56,True,False,6.56,Foreign-trained physicians (%)
+CZE,2017,7.07,True,False,7.07,Foreign-trained physicians (%)
+CZE,2018,7.35,True,False,7.35,Foreign-trained physicians (%)
+CZE,2019,7.38,True,False,7.38,Foreign-trained physicians (%)
+CZE,2020,7.48,True,False,7.48,Foreign-trained physicians (%)
+CZE,2021,7.59,True,False,7.59,Foreign-trained physicians (%)
+CZE,2022,7.89,True,False,7.89,Foreign-trained physicians (%)
+CZE,2023,8.16,True,False,8.16,Foreign-trained physicians (%)
+CZE,2024,8.6,True,False,8.6,Foreign-trained physicians (%)
+DEU,2010,6.54,True,False,6.54,Foreign-trained physicians (%)
+DEU,2011,7.28,True,False,7.28,Foreign-trained physicians (%)
+DEU,2012,8.14,True,False,8.14,Foreign-trained physicians (%)
+DEU,2013,8.81,True,False,8.81,Foreign-trained physicians (%)
+DEU,2014,9.51,True,False,9.51,Foreign-trained physicians (%)
+DEU,2015,10.24,True,False,10.24,Foreign-trained physicians (%)
+DEU,2016,11.02,True,False,11.02,Foreign-trained physicians (%)
+DEU,2017,11.87,True,False,11.87,Foreign-trained physicians (%)
+DEU,2018,12.49,True,False,12.49,Foreign-trained physicians (%)
+DEU,2019,13.12,True,False,13.12,Foreign-trained physicians (%)
+DEU,2020,13.65,True,False,13.65,Foreign-trained physicians (%)
+DEU,2021,13.77,True,False,13.77,Foreign-trained physicians (%)
+DEU,2022,14.35,True,False,14.35,Foreign-trained physicians (%)
+DEU,2023,14.98,True,False,14.98,Foreign-trained physicians (%)
+DEU,2024,15.71,True,False,15.71,Foreign-trained physicians (%)
+DNK,2010,8.75,True,False,8.75,Foreign-trained physicians (%)
+DNK,2011,8.8,True,False,8.8,Foreign-trained physicians (%)
+DNK,2012,8.72,True,False,8.72,Foreign-trained physicians (%)
+DNK,2013,8.73,True,False,8.73,Foreign-trained physicians (%)
+DNK,2014,8.94,True,False,8.94,Foreign-trained physicians (%)
+DNK,2015,9.15,True,False,9.15,Foreign-trained physicians (%)
+DNK,2016,9.24,True,False,9.24,Foreign-trained physicians (%)
+DNK,2017,9.22,True,False,9.22,Foreign-trained physicians (%)
+DNK,2018,9.37,True,False,9.37,Foreign-trained physicians (%)
+DNK,2019,9.46,True,False,9.46,Foreign-trained physicians (%)
+DNK,2020,9.53,True,False,9.53,Foreign-trained physicians (%)
+DNK,2021,9.9,True,False,9.9,Foreign-trained physicians (%)
+DNK,2022,10.41,True,False,10.41,Foreign-trained physicians (%)
+DNK,2023,10.58,True,False,10.58,Foreign-trained physicians (%)
+DNK,2024,10.68,True,False,10.68,Foreign-trained physicians (%)
+EST,2010,1.42,True,False,1.42,Foreign-trained physicians (%)
+EST,2011,1.73,True,False,1.73,Foreign-trained physicians (%)
+EST,2012,2.01,True,False,2.01,Foreign-trained physicians (%)
+EST,2013,2.35,True,False,2.35,Foreign-trained physicians (%)
+EST,2014,2.64,True,False,2.64,Foreign-trained physicians (%)
+EST,2015,3.04,True,False,3.04,Foreign-trained physicians (%)
+EST,2016,3.31,True,False,3.31,Foreign-trained physicians (%)
+EST,2017,3.57,True,False,3.57,Foreign-trained physicians (%)
+EST,2018,3.86,True,False,3.86,Foreign-trained physicians (%)
+EST,2019,3.94,True,False,3.94,Foreign-trained physicians (%)
+EST,2020,4.06,True,False,4.06,Foreign-trained physicians (%)
+EST,2021,4.18,True,False,4.18,Foreign-trained physicians (%)
+EST,2022,4.31,True,False,4.31,Foreign-trained physicians (%)
+EST,2023,4.5,True,False,4.5,Foreign-trained physicians (%)
+EST,2024,4.71,True,False,4.71,Foreign-trained physicians (%)
+FIN,2010,10.44,True,False,10.44,Foreign-trained physicians (%)
+FIN,2011,10.82,True,False,10.82,Foreign-trained physicians (%)
+FIN,2012,11.06,True,False,11.06,Foreign-trained physicians (%)
+FIN,2013,11.42,True,False,11.42,Foreign-trained physicians (%)
+FIN,2014,11.54,True,False,11.54,Foreign-trained physicians (%)
+FIN,2015,11.66,True,False,11.66,Foreign-trained physicians (%)
+FIN,2016,11.89,True,False,11.89,Foreign-trained physicians (%)
+FIN,2017,12.11,True,False,12.11,Foreign-trained physicians (%)
+FIN,2018,12.24,True,False,12.24,Foreign-trained physicians (%)
+FIN,2019,12.41,True,False,12.41,Foreign-trained physicians (%)
+FIN,2020,12.57,True,False,12.57,Foreign-trained physicians (%)
+FIN,2021,13.0,True,False,13.0,Foreign-trained physicians (%)
+FIN,2022,13.41,True,False,13.41,Foreign-trained physicians (%)
+FIN,2023,13.81,True,False,13.81,Foreign-trained physicians (%)
+FIN,2024,,False,False,,Foreign-trained physicians (%)
+FRA,2010,7.451,True,False,7.451,Foreign-trained physicians (%)
+FRA,2011,8.436,True,False,8.436,Foreign-trained physicians (%)
+FRA,2012,8.933,True,False,8.933,Foreign-trained physicians (%)
+FRA,2013,9.431,True,False,9.431,Foreign-trained physicians (%)
+FRA,2014,10.044,True,False,10.044,Foreign-trained physicians (%)
+FRA,2015,10.582,True,False,10.582,Foreign-trained physicians (%)
+FRA,2016,11.045,True,False,11.045,Foreign-trained physicians (%)
+FRA,2017,11.375,True,False,11.375,Foreign-trained physicians (%)
+FRA,2018,11.64,True,False,11.64,Foreign-trained physicians (%)
+FRA,2019,11.81,True,False,11.81,Foreign-trained physicians (%)
+FRA,2020,12.048,True,False,12.048,Foreign-trained physicians (%)
+FRA,2021,12.327,True,False,12.327,Foreign-trained physicians (%)
+FRA,2022,12.717,True,False,12.717,Foreign-trained physicians (%)
+FRA,2023,10.954,True,False,10.954,Foreign-trained physicians (%)
+FRA,2024,11.495,True,False,11.495,Foreign-trained physicians (%)
+GBR,2010,,False,False,,Foreign-trained physicians (%)
+GBR,2011,,False,False,,Foreign-trained physicians (%)
+GBR,2012,,False,False,,Foreign-trained physicians (%)
+GBR,2013,,False,False,,Foreign-trained physicians (%)
+GBR,2014,,False,False,,Foreign-trained physicians (%)
+GBR,2015,32.42,True,False,32.42,Foreign-trained physicians (%)
+GBR,2016,32.82,True,False,32.82,Foreign-trained physicians (%)
+GBR,2017,32.85,True,False,32.85,Foreign-trained physicians (%)
+GBR,2018,33.34,True,False,33.34,Foreign-trained physicians (%)
+GBR,2019,34.22,True,False,34.22,Foreign-trained physicians (%)
+GBR,2020,34.84,True,False,34.84,Foreign-trained physicians (%)
+GBR,2021,35.87,True,False,35.87,Foreign-trained physicians (%)
+GBR,2022,37.42,True,False,37.42,Foreign-trained physicians (%)
+GBR,2023,39.19,True,False,39.19,Foreign-trained physicians (%)
+GBR,2024,40.04,True,False,40.04,Foreign-trained physicians (%)
+GRC,2010,,False,False,,Foreign-trained physicians (%)
+GRC,2011,,False,False,,Foreign-trained physicians (%)
+GRC,2012,,False,False,,Foreign-trained physicians (%)
+GRC,2013,,False,False,,Foreign-trained physicians (%)
+GRC,2014,,False,False,,Foreign-trained physicians (%)
+GRC,2015,,False,False,,Foreign-trained physicians (%)
+GRC,2016,,False,False,,Foreign-trained physicians (%)
+GRC,2017,,False,False,,Foreign-trained physicians (%)
+GRC,2018,,False,False,,Foreign-trained physicians (%)
+GRC,2019,20.37,True,False,20.37,Foreign-trained physicians (%)
+GRC,2020,22.4,True,False,22.4,Foreign-trained physicians (%)
+GRC,2021,21.97,True,False,21.97,Foreign-trained physicians (%)
+GRC,2022,21.77,True,False,21.77,Foreign-trained physicians (%)
+GRC,2023,22.0,True,False,22.0,Foreign-trained physicians (%)
+GRC,2024,21.89,True,False,21.89,Foreign-trained physicians (%)
+HRV,2010,,False,False,,Foreign-trained physicians (%)
+HRV,2011,,False,False,,Foreign-trained physicians (%)
+HRV,2012,,False,False,,Foreign-trained physicians (%)
+HRV,2013,,False,False,,Foreign-trained physicians (%)
+HRV,2014,,False,False,,Foreign-trained physicians (%)
+HRV,2015,,False,False,,Foreign-trained physicians (%)
+HRV,2016,,False,False,,Foreign-trained physicians (%)
+HRV,2017,4.244,True,False,4.244,Foreign-trained physicians (%)
+HRV,2018,4.238,True,False,4.238,Foreign-trained physicians (%)
+HRV,2019,3.89,True,False,3.89,Foreign-trained physicians (%)
+HRV,2020,4.164,True,False,4.164,Foreign-trained physicians (%)
+HRV,2021,3.911,True,False,3.911,Foreign-trained physicians (%)
+HRV,2022,3.751,True,False,3.751,Foreign-trained physicians (%)
+HRV,2023,3.816,True,False,3.816,Foreign-trained physicians (%)
+HRV,2024,3.655,True,False,3.655,Foreign-trained physicians (%)
+HUN,2010,7.73,True,False,7.73,Foreign-trained physicians (%)
+HUN,2011,7.66,True,False,7.66,Foreign-trained physicians (%)
+HUN,2012,7.43,True,False,7.43,Foreign-trained physicians (%)
+HUN,2013,7.56,True,False,7.56,Foreign-trained physicians (%)
+HUN,2014,7.57,True,False,7.57,Foreign-trained physicians (%)
+HUN,2015,7.79,True,False,7.79,Foreign-trained physicians (%)
+HUN,2016,7.8,True,False,7.8,Foreign-trained physicians (%)
+HUN,2017,8.03,True,False,8.03,Foreign-trained physicians (%)
+HUN,2018,8.08,True,False,8.08,Foreign-trained physicians (%)
+HUN,2019,8.21,True,False,8.21,Foreign-trained physicians (%)
+HUN,2020,8.18,True,False,8.18,Foreign-trained physicians (%)
+HUN,2021,8.19,True,False,8.19,Foreign-trained physicians (%)
+HUN,2022,8.24,True,False,8.24,Foreign-trained physicians (%)
+HUN,2023,8.31,True,False,8.31,Foreign-trained physicians (%)
+HUN,2024,8.43,True,False,8.43,Foreign-trained physicians (%)
+IRL,2010,,False,False,,Foreign-trained physicians (%)
+IRL,2011,35.658,True,False,35.658,Foreign-trained physicians (%)
+IRL,2012,32.639,True,False,32.639,Foreign-trained physicians (%)
+IRL,2013,34.218,True,False,34.218,Foreign-trained physicians (%)
+IRL,2014,36.069,True,False,36.069,Foreign-trained physicians (%)
+IRL,2015,39.029,True,False,39.029,Foreign-trained physicians (%)
+IRL,2016,41.62,True,False,41.62,Foreign-trained physicians (%)
+IRL,2017,42.33,True,False,42.33,Foreign-trained physicians (%)
+IRL,2018,41.64,True,False,41.64,Foreign-trained physicians (%)
+IRL,2019,41.35,True,False,41.35,Foreign-trained physicians (%)
+IRL,2020,40.19,True,False,40.19,Foreign-trained physicians (%)
+IRL,2021,40.45,True,False,40.45,Foreign-trained physicians (%)
+IRL,2022,40.63,True,False,40.63,Foreign-trained physicians (%)
+IRL,2023,43.364,True,False,43.364,Foreign-trained physicians (%)
+IRL,2024,41.31,True,False,41.31,Foreign-trained physicians (%)
+ISR,2010,59.97,True,False,59.97,Foreign-trained physicians (%)
+ISR,2011,59.84,True,False,59.84,Foreign-trained physicians (%)
+ISR,2012,59.48,True,False,59.48,Foreign-trained physicians (%)
+ISR,2013,59.11,True,False,59.11,Foreign-trained physicians (%)
+ISR,2014,58.56,True,False,58.56,Foreign-trained physicians (%)
+ISR,2015,58.48,True,False,58.48,Foreign-trained physicians (%)
+ISR,2016,58.12,True,False,58.12,Foreign-trained physicians (%)
+ISR,2017,57.85,True,False,57.85,Foreign-trained physicians (%)
+ISR,2018,57.93,True,False,57.93,Foreign-trained physicians (%)
+ISR,2019,57.81,True,False,57.81,Foreign-trained physicians (%)
+ISR,2020,57.83,True,False,57.83,Foreign-trained physicians (%)
+ISR,2021,57.83,True,False,57.83,Foreign-trained physicians (%)
+ISR,2022,57.99,True,False,57.99,Foreign-trained physicians (%)
+ISR,2023,58.51,True,False,58.51,Foreign-trained physicians (%)
+ISR,2024,59.13,True,False,59.13,Foreign-trained physicians (%)
+ITA,2010,0.8,True,False,0.8,Foreign-trained physicians (%)
+ITA,2011,0.82,True,False,0.82,Foreign-trained physicians (%)
+ITA,2012,0.83,True,False,0.83,Foreign-trained physicians (%)
+ITA,2013,0.84,True,False,0.84,Foreign-trained physicians (%)
+ITA,2014,0.83,True,False,0.83,Foreign-trained physicians (%)
+ITA,2015,0.83,True,False,0.83,Foreign-trained physicians (%)
+ITA,2016,0.83,True,False,0.83,Foreign-trained physicians (%)
+ITA,2017,0.82,True,False,0.82,Foreign-trained physicians (%)
+ITA,2018,0.84,True,False,0.84,Foreign-trained physicians (%)
+ITA,2019,0.88,True,False,0.88,Foreign-trained physicians (%)
+ITA,2020,0.9,True,False,0.9,Foreign-trained physicians (%)
+ITA,2021,0.94,True,False,0.94,Foreign-trained physicians (%)
+ITA,2022,0.97,True,False,0.97,Foreign-trained physicians (%)
+ITA,2023,1.03,True,False,1.03,Foreign-trained physicians (%)
+ITA,2024,1.15,True,False,1.15,Foreign-trained physicians (%)
+LTU,2010,,False,False,,Foreign-trained physicians (%)
+LTU,2011,,False,False,,Foreign-trained physicians (%)
+LTU,2012,,False,False,,Foreign-trained physicians (%)
+LTU,2013,,False,False,,Foreign-trained physicians (%)
+LTU,2014,0.26,True,False,0.26,Foreign-trained physicians (%)
+LTU,2015,0.29,True,False,0.29,Foreign-trained physicians (%)
+LTU,2016,0.34,True,False,0.34,Foreign-trained physicians (%)
+LTU,2017,0.43,True,False,0.43,Foreign-trained physicians (%)
+LTU,2018,0.47,True,False,0.47,Foreign-trained physicians (%)
+LTU,2019,0.53,True,False,0.53,Foreign-trained physicians (%)
+LTU,2020,0.58,True,False,0.58,Foreign-trained physicians (%)
+LTU,2021,0.52,True,False,0.52,Foreign-trained physicians (%)
+LTU,2022,0.66,True,False,0.66,Foreign-trained physicians (%)
+LTU,2023,0.82,True,False,0.82,Foreign-trained physicians (%)
+LTU,2024,0.81,True,False,0.81,Foreign-trained physicians (%)
+LUX,2010,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2011,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2012,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2013,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2014,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2015,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2016,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2017,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2018,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2019,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2020,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2021,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2022,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2023,100.0,True,False,100.0,Foreign-trained physicians (%)
+LUX,2024,100.0,True,False,100.0,Foreign-trained physicians (%)
+LVA,2010,7.01,True,False,7.01,Foreign-trained physicians (%)
+LVA,2011,7.15,True,False,7.15,Foreign-trained physicians (%)
+LVA,2012,7.09,True,False,7.09,Foreign-trained physicians (%)
+LVA,2013,6.96,True,False,6.96,Foreign-trained physicians (%)
+LVA,2014,6.74,True,False,6.74,Foreign-trained physicians (%)
+LVA,2015,6.52,True,False,6.52,Foreign-trained physicians (%)
+LVA,2016,6.25,True,False,6.25,Foreign-trained physicians (%)
+LVA,2017,5.95,True,False,5.95,Foreign-trained physicians (%)
+LVA,2018,5.53,True,False,5.53,Foreign-trained physicians (%)
+LVA,2019,5.27,True,False,5.27,Foreign-trained physicians (%)
+LVA,2020,5.95,True,False,5.95,Foreign-trained physicians (%)
+LVA,2021,5.85,True,False,5.85,Foreign-trained physicians (%)
+LVA,2022,7.01,True,False,7.01,Foreign-trained physicians (%)
+LVA,2023,6.69,True,False,6.69,Foreign-trained physicians (%)
+LVA,2024,6.52,True,False,6.52,Foreign-trained physicians (%)
+MLT,2010,,False,False,,Foreign-trained physicians (%)
+MLT,2011,,False,False,,Foreign-trained physicians (%)
+MLT,2012,,False,False,,Foreign-trained physicians (%)
+MLT,2013,,False,False,,Foreign-trained physicians (%)
+MLT,2014,14.5,True,False,14.5,Foreign-trained physicians (%)
+MLT,2015,14.36,True,False,14.36,Foreign-trained physicians (%)
+MLT,2016,15.61,True,False,15.61,Foreign-trained physicians (%)
+MLT,2017,15.96,True,False,15.96,Foreign-trained physicians (%)
+MLT,2018,13.45,True,False,13.45,Foreign-trained physicians (%)
+MLT,2019,13.16,True,False,13.16,Foreign-trained physicians (%)
+MLT,2020,13.99,True,False,13.99,Foreign-trained physicians (%)
+MLT,2021,13.41,True,False,13.41,Foreign-trained physicians (%)
+MLT,2022,14.97,True,False,14.97,Foreign-trained physicians (%)
+MLT,2023,14.83,True,False,14.83,Foreign-trained physicians (%)
+MLT,2024,14.7,True,False,14.7,Foreign-trained physicians (%)
+NLD,2010,2.626,True,False,2.626,Foreign-trained physicians (%)
+NLD,2011,2.603,True,False,2.603,Foreign-trained physicians (%)
+NLD,2012,2.08,True,False,2.08,Foreign-trained physicians (%)
+NLD,2013,2.051,True,False,2.051,Foreign-trained physicians (%)
+NLD,2014,2.128,True,False,2.128,Foreign-trained physicians (%)
+NLD,2015,2.178,True,False,2.178,Foreign-trained physicians (%)
+NLD,2016,2.218,True,False,2.218,Foreign-trained physicians (%)
+NLD,2017,2.744,True,False,2.744,Foreign-trained physicians (%)
+NLD,2018,3.21,True,False,3.21,Foreign-trained physicians (%)
+NLD,2019,3.583,True,False,3.583,Foreign-trained physicians (%)
+NLD,2020,3.565,True,False,3.565,Foreign-trained physicians (%)
+NLD,2021,3.616,True,False,3.616,Foreign-trained physicians (%)
+NLD,2022,3.698,True,False,3.698,Foreign-trained physicians (%)
+NLD,2023,3.781,True,False,3.781,Foreign-trained physicians (%)
+NLD,2024,3.874,True,False,3.874,Foreign-trained physicians (%)
+NOR,2010,34.405,True,False,34.405,Foreign-trained physicians (%)
+NOR,2011,35.216,True,False,35.216,Foreign-trained physicians (%)
+NOR,2012,36.059,True,False,36.059,Foreign-trained physicians (%)
+NOR,2013,36.437,True,False,36.437,Foreign-trained physicians (%)
+NOR,2014,37.291,True,False,37.291,Foreign-trained physicians (%)
+NOR,2015,38.652,True,False,38.652,Foreign-trained physicians (%)
+NOR,2016,39.448,True,False,39.448,Foreign-trained physicians (%)
+NOR,2017,40.271,True,False,40.271,Foreign-trained physicians (%)
+NOR,2018,41.088,True,False,41.088,Foreign-trained physicians (%)
+NOR,2019,41.729,True,False,41.729,Foreign-trained physicians (%)
+NOR,2020,42.283,True,False,42.283,Foreign-trained physicians (%)
+NOR,2021,43.116,True,False,43.116,Foreign-trained physicians (%)
+NOR,2022,43.621,True,False,43.621,Foreign-trained physicians (%)
+NOR,2023,44.028,True,False,44.028,Foreign-trained physicians (%)
+NOR,2024,44.455,True,False,44.455,Foreign-trained physicians (%)
+NZL,2010,43.64,True,False,43.64,Foreign-trained physicians (%)
+NZL,2011,43.53,True,False,43.53,Foreign-trained physicians (%)
+NZL,2012,43.53,True,False,43.53,Foreign-trained physicians (%)
+NZL,2013,43.5,True,False,43.5,Foreign-trained physicians (%)
+NZL,2014,42.59,True,False,42.59,Foreign-trained physicians (%)
+NZL,2015,42.12,True,False,42.12,Foreign-trained physicians (%)
+NZL,2016,42.36,True,False,42.36,Foreign-trained physicians (%)
+NZL,2017,42.41,True,False,42.41,Foreign-trained physicians (%)
+NZL,2018,42.46,True,False,42.46,Foreign-trained physicians (%)
+NZL,2019,42.59,True,False,42.59,Foreign-trained physicians (%)
+NZL,2020,42.39,True,False,42.39,Foreign-trained physicians (%)
+NZL,2021,42.12,True,False,42.12,Foreign-trained physicians (%)
+NZL,2022,42.15,True,False,42.15,Foreign-trained physicians (%)
+NZL,2023,42.42,True,False,42.42,Foreign-trained physicians (%)
+NZL,2024,43.23,True,False,43.23,Foreign-trained physicians (%)
+POL,2010,2.05,True,False,2.05,Foreign-trained physicians (%)
+POL,2011,1.76,True,False,1.76,Foreign-trained physicians (%)
+POL,2012,1.76,True,False,1.76,Foreign-trained physicians (%)
+POL,2013,1.78,True,False,1.78,Foreign-trained physicians (%)
+POL,2014,1.78,True,False,1.78,Foreign-trained physicians (%)
+POL,2015,1.8,True,False,1.8,Foreign-trained physicians (%)
+POL,2016,1.84,True,False,1.84,Foreign-trained physicians (%)
+POL,2017,1.88,True,False,1.88,Foreign-trained physicians (%)
+POL,2018,1.94,True,False,1.94,Foreign-trained physicians (%)
+POL,2019,2.09,True,False,2.09,Foreign-trained physicians (%)
+POL,2020,2.23,True,False,2.23,Foreign-trained physicians (%)
+POL,2021,2.69,True,False,2.69,Foreign-trained physicians (%)
+POL,2022,3.79,True,False,3.79,Foreign-trained physicians (%)
+POL,2023,4.8,True,False,4.8,Foreign-trained physicians (%)
+POL,2024,5.33,True,False,5.33,Foreign-trained physicians (%)
+PRT,2010,,False,False,,Foreign-trained physicians (%)
+PRT,2011,,False,False,,Foreign-trained physicians (%)
+PRT,2012,,False,False,,Foreign-trained physicians (%)
+PRT,2013,,False,False,,Foreign-trained physicians (%)
+PRT,2014,,False,False,,Foreign-trained physicians (%)
+PRT,2015,,False,False,,Foreign-trained physicians (%)
+PRT,2016,,False,False,,Foreign-trained physicians (%)
+PRT,2017,11.99,True,False,11.99,Foreign-trained physicians (%)
+PRT,2018,,False,False,,Foreign-trained physicians (%)
+PRT,2019,,False,False,,Foreign-trained physicians (%)
+PRT,2020,,False,False,,Foreign-trained physicians (%)
+PRT,2021,,False,False,,Foreign-trained physicians (%)
+PRT,2022,,False,False,,Foreign-trained physicians (%)
+PRT,2023,,False,False,,Foreign-trained physicians (%)
+PRT,2024,,False,False,,Foreign-trained physicians (%)
+ROU,2010,0.53,True,False,0.53,Foreign-trained physicians (%)
+ROU,2011,0.52,True,False,0.52,Foreign-trained physicians (%)
+ROU,2012,0.61,True,False,0.61,Foreign-trained physicians (%)
+ROU,2013,0.72,True,False,0.72,Foreign-trained physicians (%)
+ROU,2014,0.75,True,False,0.75,Foreign-trained physicians (%)
+ROU,2015,0.74,True,False,0.74,Foreign-trained physicians (%)
+ROU,2016,1.11,True,False,1.11,Foreign-trained physicians (%)
+ROU,2017,1.52,True,False,1.52,Foreign-trained physicians (%)
+ROU,2018,1.61,True,False,1.61,Foreign-trained physicians (%)
+ROU,2019,1.91,True,False,1.91,Foreign-trained physicians (%)
+ROU,2020,1.81,True,False,1.81,Foreign-trained physicians (%)
+ROU,2021,1.94,True,False,1.94,Foreign-trained physicians (%)
+ROU,2022,1.97,True,False,1.97,Foreign-trained physicians (%)
+ROU,2023,1.82,True,False,1.82,Foreign-trained physicians (%)
+ROU,2024,2.25,True,False,2.25,Foreign-trained physicians (%)
+SRB,2010,2.53,True,False,2.53,Foreign-trained physicians (%)
+SRB,2011,2.49,True,False,2.49,Foreign-trained physicians (%)
+SRB,2012,2.5,True,False,2.5,Foreign-trained physicians (%)
+SRB,2013,2.49,True,False,2.49,Foreign-trained physicians (%)
+SRB,2014,2.55,True,False,2.55,Foreign-trained physicians (%)
+SRB,2015,2.62,True,False,2.62,Foreign-trained physicians (%)
+SRB,2016,2.97,True,False,2.97,Foreign-trained physicians (%)
+SRB,2017,3.04,True,False,3.04,Foreign-trained physicians (%)
+SRB,2018,1.26,True,False,1.26,Foreign-trained physicians (%)
+SRB,2019,1.42,True,False,1.42,Foreign-trained physicians (%)
+SRB,2020,1.78,True,False,1.78,Foreign-trained physicians (%)
+SRB,2021,2.2,True,False,2.2,Foreign-trained physicians (%)
+SRB,2022,2.32,True,False,2.32,Foreign-trained physicians (%)
+SRB,2023,,False,False,,Foreign-trained physicians (%)
+SRB,2024,,False,False,,Foreign-trained physicians (%)
+SVK,2010,2.63,True,False,2.63,Foreign-trained physicians (%)
+SVK,2011,2.994,True,False,2.994,Foreign-trained physicians (%)
+SVK,2012,,False,False,,Foreign-trained physicians (%)
+SVK,2013,,False,False,,Foreign-trained physicians (%)
+SVK,2014,,False,False,,Foreign-trained physicians (%)
+SVK,2015,,False,False,,Foreign-trained physicians (%)
+SVK,2016,,False,False,,Foreign-trained physicians (%)
+SVK,2017,,False,False,,Foreign-trained physicians (%)
+SVK,2018,,False,False,,Foreign-trained physicians (%)
+SVK,2019,,False,False,,Foreign-trained physicians (%)
+SVK,2020,,False,False,,Foreign-trained physicians (%)
+SVK,2021,,False,False,,Foreign-trained physicians (%)
+SVK,2022,,False,False,,Foreign-trained physicians (%)
+SVK,2023,,False,False,,Foreign-trained physicians (%)
+SVK,2024,,False,False,,Foreign-trained physicians (%)
+SVN,2010,10.66,True,False,10.66,Foreign-trained physicians (%)
+SVN,2011,11.79,True,False,11.79,Foreign-trained physicians (%)
+SVN,2012,14.0,True,False,14.0,Foreign-trained physicians (%)
+SVN,2013,14.42,True,False,14.42,Foreign-trained physicians (%)
+SVN,2014,14.18,True,False,14.18,Foreign-trained physicians (%)
+SVN,2015,14.1,True,False,14.1,Foreign-trained physicians (%)
+SVN,2016,18.53,True,False,18.53,Foreign-trained physicians (%)
+SVN,2017,17.3,True,False,17.3,Foreign-trained physicians (%)
+SVN,2018,16.93,True,False,16.93,Foreign-trained physicians (%)
+SVN,2019,16.457,True,False,16.457,Foreign-trained physicians (%)
+SVN,2020,16.045,True,False,16.045,Foreign-trained physicians (%)
+SVN,2021,15.809,True,False,15.809,Foreign-trained physicians (%)
+SVN,2022,15.4,True,False,15.4,Foreign-trained physicians (%)
+SVN,2023,15.392,True,False,15.392,Foreign-trained physicians (%)
+SVN,2024,15.65,True,False,15.65,Foreign-trained physicians (%)
+SWE,2010,23.541,True,False,23.541,Foreign-trained physicians (%)
+SWE,2011,24.283,True,False,24.283,Foreign-trained physicians (%)
+SWE,2012,25.101,True,False,25.101,Foreign-trained physicians (%)
+SWE,2013,26.071,True,False,26.071,Foreign-trained physicians (%)
+SWE,2014,27.14,True,False,27.14,Foreign-trained physicians (%)
+SWE,2015,26.304,True,False,26.304,Foreign-trained physicians (%)
+SWE,2016,27.331,True,False,27.331,Foreign-trained physicians (%)
+SWE,2017,28.025,True,False,28.025,Foreign-trained physicians (%)
+SWE,2018,28.808,True,False,28.808,Foreign-trained physicians (%)
+SWE,2019,29.459,True,False,29.459,Foreign-trained physicians (%)
+SWE,2020,30.244,True,False,30.244,Foreign-trained physicians (%)
+SWE,2021,30.41,True,False,30.41,Foreign-trained physicians (%)
+SWE,2022,28.42,True,False,28.42,Foreign-trained physicians (%)
+SWE,2023,30.65,True,False,30.65,Foreign-trained physicians (%)
+SWE,2024,,False,False,,Foreign-trained physicians (%)
+USA,2010,24.84,True,False,24.84,Foreign-trained physicians (%)
+USA,2011,24.66,True,False,24.66,Foreign-trained physicians (%)
+USA,2012,24.89,True,False,24.89,Foreign-trained physicians (%)
+USA,2013,24.95,True,False,24.95,Foreign-trained physicians (%)
+USA,2014,24.86,True,False,24.86,Foreign-trained physicians (%)
+USA,2015,24.93,True,False,24.93,Foreign-trained physicians (%)
+USA,2016,24.99,True,False,24.99,Foreign-trained physicians (%)
+USA,2017,,False,False,,Foreign-trained physicians (%)
+USA,2018,,False,False,,Foreign-trained physicians (%)
+USA,2019,,False,False,,Foreign-trained physicians (%)
+USA,2020,,False,False,,Foreign-trained physicians (%)
+USA,2021,,False,False,,Foreign-trained physicians (%)
+USA,2022,,False,False,,Foreign-trained physicians (%)
+USA,2023,,False,False,,Foreign-trained physicians (%)
+USA,2024,24.96,True,False,24.96,Foreign-trained physicians (%)
+AUS,2010,12.08,True,False,12.08,Medical graduates / 100k
+AUS,2011,13.48,True,False,13.48,Medical graduates / 100k
+AUS,2012,13.98,True,False,13.98,Medical graduates / 100k
+AUS,2013,15.45,True,False,15.45,Medical graduates / 100k
+AUS,2014,15.31,True,False,15.31,Medical graduates / 100k
+AUS,2015,15.75,True,False,15.75,Medical graduates / 100k
+AUS,2016,15.95,True,False,15.95,Medical graduates / 100k
+AUS,2017,15.45,True,False,15.45,Medical graduates / 100k
+AUS,2018,15.86,True,False,15.86,Medical graduates / 100k
+AUS,2019,15.88,True,False,15.88,Medical graduates / 100k
+AUS,2020,14.97,True,False,14.97,Medical graduates / 100k
+AUS,2021,15.36,True,False,15.36,Medical graduates / 100k
+AUS,2022,15.63,True,False,15.63,Medical graduates / 100k
+AUS,2023,15.26,True,False,15.26,Medical graduates / 100k
+AUS,2024,15.67,True,False,15.67,Medical graduates / 100k
+AUT,2010,20.64,True,False,20.64,Medical graduates / 100k
+AUT,2011,17.47,True,False,17.47,Medical graduates / 100k
+AUT,2012,16.76,True,False,16.76,Medical graduates / 100k
+AUT,2013,13.8,True,False,13.8,Medical graduates / 100k
+AUT,2014,14.73,True,False,14.73,Medical graduates / 100k
+AUT,2015,14.52,True,False,14.52,Medical graduates / 100k
+AUT,2016,13.94,True,False,13.94,Medical graduates / 100k
+AUT,2017,14.19,True,False,14.19,Medical graduates / 100k
+AUT,2018,15.23,True,False,15.23,Medical graduates / 100k
+AUT,2019,13.99,True,False,13.99,Medical graduates / 100k
+AUT,2020,14.44,True,False,14.44,Medical graduates / 100k
+AUT,2021,16.25,True,False,16.25,Medical graduates / 100k
+AUT,2022,16.21,True,False,16.21,Medical graduates / 100k
+AUT,2023,16.75,True,False,16.75,Medical graduates / 100k
+AUT,2024,17.63,True,False,17.63,Medical graduates / 100k
+BEL,2010,8.99,True,False,8.99,Medical graduates / 100k
+BEL,2011,10.19,True,False,10.19,Medical graduates / 100k
+BEL,2012,10.62,True,False,10.62,Medical graduates / 100k
+BEL,2013,10.53,True,False,10.53,Medical graduates / 100k
+BEL,2014,11.5,True,False,11.5,Medical graduates / 100k
+BEL,2015,12.05,True,False,12.05,Medical graduates / 100k
+BEL,2016,14.24,True,False,14.24,Medical graduates / 100k
+BEL,2017,14.8,True,False,14.8,Medical graduates / 100k
+BEL,2018,28.72,True,False,28.72,Medical graduates / 100k
+BEL,2019,17.58,True,False,17.58,Medical graduates / 100k
+BEL,2020,16.61,True,False,16.61,Medical graduates / 100k
+BEL,2021,16.38,True,False,16.38,Medical graduates / 100k
+BEL,2022,15.69,True,False,15.69,Medical graduates / 100k
+BEL,2023,14.73,True,False,14.73,Medical graduates / 100k
+BEL,2024,15.13,True,False,15.13,Medical graduates / 100k
+CAN,2010,7.2,True,False,7.2,Medical graduates / 100k
+CAN,2011,7.36,True,False,7.36,Medical graduates / 100k
+CAN,2012,7.61,True,False,7.61,Medical graduates / 100k
+CAN,2013,7.58,True,False,7.58,Medical graduates / 100k
+CAN,2014,7.89,True,False,7.89,Medical graduates / 100k
+CAN,2015,7.88,True,False,7.88,Medical graduates / 100k
+CAN,2016,7.88,True,False,7.88,Medical graduates / 100k
+CAN,2017,7.69,True,False,7.69,Medical graduates / 100k
+CAN,2018,7.72,True,False,7.72,Medical graduates / 100k
+CAN,2019,7.59,True,False,7.59,Medical graduates / 100k
+CAN,2020,7.56,True,False,7.56,Medical graduates / 100k
+CAN,2021,7.48,True,False,7.48,Medical graduates / 100k
+CAN,2022,7.25,True,False,7.25,Medical graduates / 100k
+CAN,2023,7.13,True,False,7.13,Medical graduates / 100k
+CAN,2024,6.99,True,False,6.99,Medical graduates / 100k
+CHE,2010,10.39,True,False,10.39,Medical graduates / 100k
+CHE,2011,9.4,True,False,9.4,Medical graduates / 100k
+CHE,2012,9.78,True,False,9.78,Medical graduates / 100k
+CHE,2013,9.72,True,False,9.72,Medical graduates / 100k
+CHE,2014,10.54,True,False,10.54,Medical graduates / 100k
+CHE,2015,10.79,True,False,10.79,Medical graduates / 100k
+CHE,2016,10.57,True,False,10.57,Medical graduates / 100k
+CHE,2017,11.19,True,False,11.19,Medical graduates / 100k
+CHE,2018,11.69,True,False,11.69,Medical graduates / 100k
+CHE,2019,11.86,True,False,11.86,Medical graduates / 100k
+CHE,2020,12.91,True,False,12.91,Medical graduates / 100k
+CHE,2021,12.51,True,False,12.51,Medical graduates / 100k
+CHE,2022,13.26,True,False,13.26,Medical graduates / 100k
+CHE,2023,13.85,True,False,13.85,Medical graduates / 100k
+CHE,2024,15.33,True,False,15.33,Medical graduates / 100k
+CHL,2010,7.31,True,False,7.31,Medical graduates / 100k
+CHL,2011,6.91,True,False,6.91,Medical graduates / 100k
+CHL,2012,9.36,True,False,9.36,Medical graduates / 100k
+CHL,2013,7.35,True,False,7.35,Medical graduates / 100k
+CHL,2014,8.64,True,False,8.64,Medical graduates / 100k
+CHL,2015,9.42,True,False,9.42,Medical graduates / 100k
+CHL,2016,9.05,True,False,9.05,Medical graduates / 100k
+CHL,2017,8.67,True,False,8.67,Medical graduates / 100k
+CHL,2018,8.73,True,False,8.73,Medical graduates / 100k
+CHL,2019,9.13,True,False,9.13,Medical graduates / 100k
+CHL,2020,9.09,True,False,9.09,Medical graduates / 100k
+CHL,2021,2.54,True,False,2.54,Medical graduates / 100k
+CHL,2022,12.79,True,False,12.79,Medical graduates / 100k
+CHL,2023,11.59,True,False,11.59,Medical graduates / 100k
+CHL,2024,12.09,True,False,12.09,Medical graduates / 100k
+COL,2010,9.48,True,False,9.48,Medical graduates / 100k
+COL,2011,9.18,True,False,9.18,Medical graduates / 100k
+COL,2012,9.93,True,False,9.93,Medical graduates / 100k
+COL,2013,10.95,True,False,10.95,Medical graduates / 100k
+COL,2014,9.58,True,False,9.58,Medical graduates / 100k
+COL,2015,10.43,True,False,10.43,Medical graduates / 100k
+COL,2016,11.2,True,False,11.2,Medical graduates / 100k
+COL,2017,12.12,True,False,12.12,Medical graduates / 100k
+COL,2018,13.32,True,False,13.32,Medical graduates / 100k
+COL,2019,12.79,True,False,12.79,Medical graduates / 100k
+COL,2020,11.81,True,False,11.81,Medical graduates / 100k
+COL,2021,12.46,True,False,12.46,Medical graduates / 100k
+COL,2022,13.35,True,False,13.35,Medical graduates / 100k
+COL,2023,14.69,True,False,14.69,Medical graduates / 100k
+COL,2024,15.17,True,False,15.17,Medical graduates / 100k
+CRI,2010,,False,False,,Medical graduates / 100k
+CRI,2011,,False,False,,Medical graduates / 100k
+CRI,2012,,False,False,,Medical graduates / 100k
+CRI,2013,,False,False,,Medical graduates / 100k
+CRI,2014,29.73,True,False,29.73,Medical graduates / 100k
+CRI,2015,29.35,True,False,29.35,Medical graduates / 100k
+CRI,2016,27.02,True,False,27.02,Medical graduates / 100k
+CRI,2017,28.46,True,False,28.46,Medical graduates / 100k
+CRI,2018,25.92,True,False,25.92,Medical graduates / 100k
+CRI,2019,26.14,True,False,26.14,Medical graduates / 100k
+CRI,2020,21.35,True,False,21.35,Medical graduates / 100k
+CRI,2021,17.12,True,False,17.12,Medical graduates / 100k
+CRI,2022,22.41,True,False,22.41,Medical graduates / 100k
+CRI,2023,32.94,True,False,32.94,Medical graduates / 100k
+CRI,2024,25.48,True,False,25.48,Medical graduates / 100k
+CZE,2010,13.92,True,False,13.92,Medical graduates / 100k
+CZE,2011,13.91,True,False,13.91,Medical graduates / 100k
+CZE,2012,15.14,True,False,15.14,Medical graduates / 100k
+CZE,2013,12.73,True,False,12.73,Medical graduates / 100k
+CZE,2014,13.99,True,False,13.99,Medical graduates / 100k
+CZE,2015,13.56,True,False,13.56,Medical graduates / 100k
+CZE,2016,15.1,True,False,15.1,Medical graduates / 100k
+CZE,2017,17.13,True,False,17.13,Medical graduates / 100k
+CZE,2018,15.99,True,False,15.99,Medical graduates / 100k
+CZE,2019,16.1,True,False,16.1,Medical graduates / 100k
+CZE,2020,16.55,True,False,16.55,Medical graduates / 100k
+CZE,2021,17.04,True,False,17.04,Medical graduates / 100k
+CZE,2022,16.55,True,False,16.55,Medical graduates / 100k
+CZE,2023,16.38,True,False,16.38,Medical graduates / 100k
+CZE,2024,16.3,True,False,16.3,Medical graduates / 100k
+DEU,2010,12.1,True,False,12.1,Medical graduates / 100k
+DEU,2011,11.92,True,False,11.92,Medical graduates / 100k
+DEU,2012,11.92,True,False,11.92,Medical graduates / 100k
+DEU,2013,12.15,True,False,12.15,Medical graduates / 100k
+DEU,2014,11.85,True,False,11.85,Medical graduates / 100k
+DEU,2015,11.28,True,False,11.28,Medical graduates / 100k
+DEU,2016,11.71,True,False,11.71,Medical graduates / 100k
+DEU,2017,12.01,True,False,12.01,Medical graduates / 100k
+DEU,2018,11.53,True,False,11.53,Medical graduates / 100k
+DEU,2019,12.32,True,False,12.32,Medical graduates / 100k
+DEU,2020,12.03,True,False,12.03,Medical graduates / 100k
+DEU,2021,12.4,True,False,12.4,Medical graduates / 100k
+DEU,2022,12.48,True,False,12.48,Medical graduates / 100k
+DEU,2023,12.23,True,False,12.23,Medical graduates / 100k
+DEU,2024,12.42,True,False,12.42,Medical graduates / 100k
+DNK,2010,16.44,True,False,16.44,Medical graduates / 100k
+DNK,2011,17.04,True,False,17.04,Medical graduates / 100k
+DNK,2012,15.47,True,False,15.47,Medical graduates / 100k
+DNK,2013,15.1,True,False,15.1,Medical graduates / 100k
+DNK,2014,14.46,True,False,14.46,Medical graduates / 100k
+DNK,2015,17.05,True,False,17.05,Medical graduates / 100k
+DNK,2016,21.47,True,False,21.47,Medical graduates / 100k
+DNK,2017,22.22,True,False,22.22,Medical graduates / 100k
+DNK,2018,23.04,True,False,23.04,Medical graduates / 100k
+DNK,2019,21.22,True,False,21.22,Medical graduates / 100k
+DNK,2020,22.02,True,False,22.02,Medical graduates / 100k
+DNK,2021,21.63,True,False,21.63,Medical graduates / 100k
+DNK,2022,20.94,True,False,20.94,Medical graduates / 100k
+DNK,2023,21.02,True,False,21.02,Medical graduates / 100k
+DNK,2024,21.8,True,False,21.8,Medical graduates / 100k
+ESP,2010,9.23,True,False,9.23,Medical graduates / 100k
+ESP,2011,8.98,True,False,8.98,Medical graduates / 100k
+ESP,2012,9.53,True,False,9.53,Medical graduates / 100k
+ESP,2013,10.24,True,False,10.24,Medical graduates / 100k
+ESP,2014,11.99,True,False,11.99,Medical graduates / 100k
+ESP,2015,13.04,True,False,13.04,Medical graduates / 100k
+ESP,2016,13.4,True,False,13.4,Medical graduates / 100k
+ESP,2017,14.49,True,False,14.49,Medical graduates / 100k
+ESP,2018,14.24,True,False,14.24,Medical graduates / 100k
+ESP,2019,13.95,True,False,13.95,Medical graduates / 100k
+ESP,2020,13.94,True,False,13.94,Medical graduates / 100k
+ESP,2021,14.16,True,False,14.16,Medical graduates / 100k
+ESP,2022,13.24,True,False,13.24,Medical graduates / 100k
+ESP,2023,13.62,True,False,13.62,Medical graduates / 100k
+ESP,2024,13.58,True,False,13.58,Medical graduates / 100k
+EST,2010,11.19,True,False,11.19,Medical graduates / 100k
+EST,2011,9.42,True,False,9.42,Medical graduates / 100k
+EST,2012,10.28,True,False,10.28,Medical graduates / 100k
+EST,2013,9.71,True,False,9.71,Medical graduates / 100k
+EST,2014,10.57,True,False,10.57,Medical graduates / 100k
+EST,2015,10.12,True,False,10.12,Medical graduates / 100k
+EST,2016,11.02,True,False,11.02,Medical graduates / 100k
+EST,2017,11.46,True,False,11.46,Medical graduates / 100k
+EST,2018,10.29,True,False,10.29,Medical graduates / 100k
+EST,2019,10.4,True,False,10.4,Medical graduates / 100k
+EST,2020,10.38,True,False,10.38,Medical graduates / 100k
+EST,2021,11.8,True,False,11.8,Medical graduates / 100k
+EST,2022,12.16,True,False,12.16,Medical graduates / 100k
+EST,2023,10.51,True,False,10.51,Medical graduates / 100k
+EST,2024,12.53,True,False,12.53,Medical graduates / 100k
+FIN,2010,12.23,True,False,12.23,Medical graduates / 100k
+FIN,2011,10.82,True,False,10.82,Medical graduates / 100k
+FIN,2012,11.16,True,False,11.16,Medical graduates / 100k
+FIN,2013,10.37,True,False,10.37,Medical graduates / 100k
+FIN,2014,11.65,True,False,11.65,Medical graduates / 100k
+FIN,2015,11.41,True,False,11.41,Medical graduates / 100k
+FIN,2016,12.03,True,False,12.03,Medical graduates / 100k
+FIN,2017,10.42,True,False,10.42,Medical graduates / 100k
+FIN,2018,11.69,True,False,11.69,Medical graduates / 100k
+FIN,2019,11.9,True,False,11.9,Medical graduates / 100k
+FIN,2020,12.19,True,False,12.19,Medical graduates / 100k
+FIN,2021,12.67,True,False,12.67,Medical graduates / 100k
+FIN,2022,13.12,True,False,13.12,Medical graduates / 100k
+FIN,2023,13.06,True,False,13.06,Medical graduates / 100k
+FIN,2024,13.42,True,False,13.42,Medical graduates / 100k
+FRA,2010,5.77,True,False,5.77,Medical graduates / 100k
+FRA,2011,6.73,True,False,6.73,Medical graduates / 100k
+FRA,2012,7.21,True,False,7.21,Medical graduates / 100k
+FRA,2013,7.66,True,False,7.66,Medical graduates / 100k
+FRA,2014,8.09,True,False,8.09,Medical graduates / 100k
+FRA,2015,9.05,True,False,9.05,Medical graduates / 100k
+FRA,2016,9.46,True,False,9.46,Medical graduates / 100k
+FRA,2017,10.84,True,False,10.84,Medical graduates / 100k
+FRA,2018,9.51,True,False,9.51,Medical graduates / 100k
+FRA,2019,9.74,True,False,9.74,Medical graduates / 100k
+FRA,2020,11.67,True,False,11.67,Medical graduates / 100k
+FRA,2021,12.26,True,False,12.26,Medical graduates / 100k
+FRA,2022,11.93,True,False,11.93,Medical graduates / 100k
+FRA,2023,12.93,True,False,12.93,Medical graduates / 100k
+FRA,2024,11.05,True,False,11.05,Medical graduates / 100k
+GBR,2010,13.53,True,False,13.53,Medical graduates / 100k
+GBR,2011,13.33,True,False,13.33,Medical graduates / 100k
+GBR,2012,13.88,True,False,13.88,Medical graduates / 100k
+GBR,2013,13.17,True,False,13.17,Medical graduates / 100k
+GBR,2014,13.45,True,False,13.45,Medical graduates / 100k
+GBR,2015,13.61,True,False,13.61,Medical graduates / 100k
+GBR,2016,12.94,True,False,12.94,Medical graduates / 100k
+GBR,2017,13.02,True,False,13.02,Medical graduates / 100k
+GBR,2018,12.93,True,False,12.93,Medical graduates / 100k
+GBR,2019,13.1,True,False,13.1,Medical graduates / 100k
+GBR,2020,13.11,True,False,13.11,Medical graduates / 100k
+GBR,2021,13.19,True,False,13.19,Medical graduates / 100k
+GBR,2022,13.51,True,False,13.51,Medical graduates / 100k
+GBR,2023,,False,False,,Medical graduates / 100k
+GBR,2024,,False,False,,Medical graduates / 100k
+GRC,2010,11.55,True,False,11.55,Medical graduates / 100k
+GRC,2011,9.35,True,False,9.35,Medical graduates / 100k
+GRC,2012,9.92,True,False,9.92,Medical graduates / 100k
+GRC,2013,9.3,True,False,9.3,Medical graduates / 100k
+GRC,2014,9.41,True,False,9.41,Medical graduates / 100k
+GRC,2015,9.0,True,False,9.0,Medical graduates / 100k
+GRC,2016,10.84,True,False,10.84,Medical graduates / 100k
+GRC,2017,10.3,True,False,10.3,Medical graduates / 100k
+GRC,2018,12.52,True,False,12.52,Medical graduates / 100k
+GRC,2019,12.65,True,False,12.65,Medical graduates / 100k
+GRC,2020,13.69,True,False,13.69,Medical graduates / 100k
+GRC,2021,13.94,True,False,13.94,Medical graduates / 100k
+GRC,2022,13.45,True,False,13.45,Medical graduates / 100k
+GRC,2023,13.68,True,False,13.68,Medical graduates / 100k
+GRC,2024,12.63,True,False,12.63,Medical graduates / 100k
+HUN,2010,10.4,True,False,10.4,Medical graduates / 100k
+HUN,2011,11.51,True,False,11.51,Medical graduates / 100k
+HUN,2012,13.85,True,False,13.85,Medical graduates / 100k
+HUN,2013,14.23,True,False,14.23,Medical graduates / 100k
+HUN,2014,13.7,True,False,13.7,Medical graduates / 100k
+HUN,2015,13.46,True,False,13.46,Medical graduates / 100k
+HUN,2016,14.22,True,False,14.22,Medical graduates / 100k
+HUN,2017,14.5,True,False,14.5,Medical graduates / 100k
+HUN,2018,16.07,True,False,16.07,Medical graduates / 100k
+HUN,2019,15.88,True,False,15.88,Medical graduates / 100k
+HUN,2020,15.84,True,False,15.84,Medical graduates / 100k
+HUN,2021,16.34,True,False,16.34,Medical graduates / 100k
+HUN,2022,16.89,True,False,16.89,Medical graduates / 100k
+HUN,2023,17.0,True,False,17.0,Medical graduates / 100k
+HUN,2024,17.42,True,False,17.42,Medical graduates / 100k
+IRL,2010,17.21,True,False,17.21,Medical graduates / 100k
+IRL,2011,16.11,True,False,16.11,Medical graduates / 100k
+IRL,2012,16.98,True,False,16.98,Medical graduates / 100k
+IRL,2013,20.13,True,False,20.13,Medical graduates / 100k
+IRL,2014,21.66,True,False,21.66,Medical graduates / 100k
+IRL,2015,23.54,True,False,23.54,Medical graduates / 100k
+IRL,2016,24.4,True,False,24.4,Medical graduates / 100k
+IRL,2017,24.78,True,False,24.78,Medical graduates / 100k
+IRL,2018,25.6,True,False,25.6,Medical graduates / 100k
+IRL,2019,24.62,True,False,24.62,Medical graduates / 100k
+IRL,2020,25.16,True,False,25.16,Medical graduates / 100k
+IRL,2021,25.63,True,False,25.63,Medical graduates / 100k
+IRL,2022,25.42,True,False,25.42,Medical graduates / 100k
+IRL,2023,25.04,True,False,25.04,Medical graduates / 100k
+IRL,2024,24.83,True,False,24.83,Medical graduates / 100k
+ISL,2010,13.83,True,False,13.83,Medical graduates / 100k
+ISL,2011,13.79,True,False,13.79,Medical graduates / 100k
+ISL,2012,15.28,True,False,15.28,Medical graduates / 100k
+ISL,2013,12.35,True,False,12.35,Medical graduates / 100k
+ISL,2014,16.19,True,False,16.19,Medical graduates / 100k
+ISL,2015,12.7,True,False,12.7,Medical graduates / 100k
+ISL,2016,15.8,True,False,15.8,Medical graduates / 100k
+ISL,2017,14.56,True,False,14.56,Medical graduates / 100k
+ISL,2018,13.61,True,False,13.61,Medical graduates / 100k
+ISL,2019,11.37,True,False,11.37,Medical graduates / 100k
+ISL,2020,13.37,True,False,13.37,Medical graduates / 100k
+ISL,2021,13.69,True,False,13.69,Medical graduates / 100k
+ISL,2022,9.95,True,False,9.95,Medical graduates / 100k
+ISL,2023,13.48,True,False,13.48,Medical graduates / 100k
+ISL,2024,13.2,True,False,13.2,Medical graduates / 100k
+ISR,2010,4.12,True,False,4.12,Medical graduates / 100k
+ISR,2011,4.85,True,False,4.85,Medical graduates / 100k
+ISR,2012,3.84,True,False,3.84,Medical graduates / 100k
+ISR,2013,5.06,True,False,5.06,Medical graduates / 100k
+ISR,2014,6.29,True,False,6.29,Medical graduates / 100k
+ISR,2015,5.47,True,False,5.47,Medical graduates / 100k
+ISR,2016,6.76,True,False,6.76,Medical graduates / 100k
+ISR,2017,6.9,True,False,6.9,Medical graduates / 100k
+ISR,2018,7.41,True,False,7.41,Medical graduates / 100k
+ISR,2019,7.22,True,False,7.22,Medical graduates / 100k
+ISR,2020,6.93,True,False,6.93,Medical graduates / 100k
+ISR,2021,6.8,True,False,6.8,Medical graduates / 100k
+ISR,2022,7.22,True,False,7.22,Medical graduates / 100k
+ISR,2023,7.21,True,False,7.21,Medical graduates / 100k
+ISR,2024,11.36,True,False,11.36,Medical graduates / 100k
+ITA,2010,11.25,True,False,11.25,Medical graduates / 100k
+ITA,2011,11.16,True,False,11.16,Medical graduates / 100k
+ITA,2012,11.02,True,False,11.02,Medical graduates / 100k
+ITA,2013,11.12,True,False,11.12,Medical graduates / 100k
+ITA,2014,11.57,True,False,11.57,Medical graduates / 100k
+ITA,2015,12.45,True,False,12.45,Medical graduates / 100k
+ITA,2016,13.36,True,False,13.36,Medical graduates / 100k
+ITA,2017,15.2,True,False,15.2,Medical graduates / 100k
+ITA,2018,16.92,True,False,16.92,Medical graduates / 100k
+ITA,2019,17.6,True,False,17.6,Medical graduates / 100k
+ITA,2020,18.86,True,False,18.86,Medical graduates / 100k
+ITA,2021,18.24,True,False,18.24,Medical graduates / 100k
+ITA,2022,16.65,True,False,16.65,Medical graduates / 100k
+ITA,2023,16.61,True,False,16.61,Medical graduates / 100k
+ITA,2024,16.99,True,False,16.99,Medical graduates / 100k
+JPN,2010,5.95,True,False,5.95,Medical graduates / 100k
+JPN,2011,5.97,True,False,5.97,Medical graduates / 100k
+JPN,2012,5.88,True,False,5.88,Medical graduates / 100k
+JPN,2013,6.0,True,False,6.0,Medical graduates / 100k
+JPN,2014,6.01,True,False,6.01,Medical graduates / 100k
+JPN,2015,6.39,True,False,6.39,Medical graduates / 100k
+JPN,2016,6.71,True,False,6.71,Medical graduates / 100k
+JPN,2017,6.83,True,False,6.83,Medical graduates / 100k
+JPN,2018,6.9,True,False,6.9,Medical graduates / 100k
+JPN,2019,7.11,True,False,7.11,Medical graduates / 100k
+JPN,2020,6.94,True,False,6.94,Medical graduates / 100k
+JPN,2021,7.18,True,False,7.18,Medical graduates / 100k
+JPN,2022,7.28,True,False,7.28,Medical graduates / 100k
+JPN,2023,7.47,True,False,7.47,Medical graduates / 100k
+JPN,2024,7.59,True,False,7.59,Medical graduates / 100k
+KOR,2010,8.13,True,False,8.13,Medical graduates / 100k
+KOR,2011,7.87,True,False,7.87,Medical graduates / 100k
+KOR,2012,7.95,True,False,7.95,Medical graduates / 100k
+KOR,2013,7.74,True,False,7.74,Medical graduates / 100k
+KOR,2014,7.79,True,False,7.79,Medical graduates / 100k
+KOR,2015,7.57,True,False,7.57,Medical graduates / 100k
+KOR,2016,7.59,True,False,7.59,Medical graduates / 100k
+KOR,2017,7.59,True,False,7.59,Medical graduates / 100k
+KOR,2018,7.48,True,False,7.48,Medical graduates / 100k
+KOR,2019,7.39,True,False,7.39,Medical graduates / 100k
+KOR,2020,7.22,True,False,7.22,Medical graduates / 100k
+KOR,2021,7.26,True,False,7.26,Medical graduates / 100k
+KOR,2022,7.57,True,False,7.57,Medical graduates / 100k
+KOR,2023,7.43,True,False,7.43,Medical graduates / 100k
+KOR,2024,7.34,True,False,7.34,Medical graduates / 100k
+LTU,2010,12.62,True,False,12.62,Medical graduates / 100k
+LTU,2011,13.44,True,False,13.44,Medical graduates / 100k
+LTU,2012,13.18,True,False,13.18,Medical graduates / 100k
+LTU,2013,14.79,True,False,14.79,Medical graduates / 100k
+LTU,2014,14.61,True,False,14.61,Medical graduates / 100k
+LTU,2015,16.35,True,False,16.35,Medical graduates / 100k
+LTU,2016,16.06,True,False,16.06,Medical graduates / 100k
+LTU,2017,19.17,True,False,19.17,Medical graduates / 100k
+LTU,2018,19.65,True,False,19.65,Medical graduates / 100k
+LTU,2019,19.64,True,False,19.64,Medical graduates / 100k
+LTU,2020,20.32,True,False,20.32,Medical graduates / 100k
+LTU,2021,20.33,True,False,20.33,Medical graduates / 100k
+LTU,2022,21.22,True,False,21.22,Medical graduates / 100k
+LTU,2023,22.43,True,False,22.43,Medical graduates / 100k
+LTU,2024,22.61,True,False,22.61,Medical graduates / 100k
+LUX,2010,,True,False,,Medical graduates / 100k
+LUX,2011,,True,False,,Medical graduates / 100k
+LUX,2012,,True,False,,Medical graduates / 100k
+LUX,2013,,True,False,,Medical graduates / 100k
+LUX,2014,,True,False,,Medical graduates / 100k
+LUX,2015,,True,False,,Medical graduates / 100k
+LUX,2016,,True,False,,Medical graduates / 100k
+LUX,2017,,True,False,,Medical graduates / 100k
+LUX,2018,,True,False,,Medical graduates / 100k
+LUX,2019,,True,False,,Medical graduates / 100k
+LUX,2020,,True,False,,Medical graduates / 100k
+LUX,2021,,True,False,,Medical graduates / 100k
+LUX,2022,,True,False,,Medical graduates / 100k
+LUX,2023,,True,False,,Medical graduates / 100k
+LUX,2024,,True,False,,Medical graduates / 100k
+LVA,2010,8.53,True,False,8.53,Medical graduates / 100k
+LVA,2011,11.26,True,False,11.26,Medical graduates / 100k
+LVA,2012,11.5,True,False,11.5,Medical graduates / 100k
+LVA,2013,13.46,True,False,13.46,Medical graduates / 100k
+LVA,2014,14.04,True,False,14.04,Medical graduates / 100k
+LVA,2015,16.18,True,False,16.18,Medical graduates / 100k
+LVA,2016,16.33,True,False,16.33,Medical graduates / 100k
+LVA,2017,17.35,True,False,17.35,Medical graduates / 100k
+LVA,2018,22.21,True,False,22.21,Medical graduates / 100k
+LVA,2019,23.51,True,False,23.51,Medical graduates / 100k
+LVA,2020,23.89,True,False,23.89,Medical graduates / 100k
+LVA,2021,27.33,True,False,27.33,Medical graduates / 100k
+LVA,2022,27.44,True,False,27.44,Medical graduates / 100k
+LVA,2023,26.92,True,False,26.92,Medical graduates / 100k
+LVA,2024,30.86,True,False,30.86,Medical graduates / 100k
+MEX,2010,11.36,True,False,11.36,Medical graduates / 100k
+MEX,2011,11.72,True,False,11.72,Medical graduates / 100k
+MEX,2012,11.86,True,False,11.86,Medical graduates / 100k
+MEX,2013,10.1,True,False,10.1,Medical graduates / 100k
+MEX,2014,10.66,True,False,10.66,Medical graduates / 100k
+MEX,2015,10.9,True,False,10.9,Medical graduates / 100k
+MEX,2016,12.4,True,False,12.4,Medical graduates / 100k
+MEX,2017,13.29,True,False,13.29,Medical graduates / 100k
+MEX,2018,12.18,True,False,12.18,Medical graduates / 100k
+MEX,2019,13.68,True,False,13.68,Medical graduates / 100k
+MEX,2020,12.78,True,False,12.78,Medical graduates / 100k
+MEX,2021,18.19,True,False,18.19,Medical graduates / 100k
+MEX,2022,17.76,True,False,17.76,Medical graduates / 100k
+MEX,2023,18.71,True,False,18.71,Medical graduates / 100k
+MEX,2024,20.09,True,False,20.09,Medical graduates / 100k
+NLD,2010,13.7,True,False,13.7,Medical graduates / 100k
+NLD,2011,14.74,True,False,14.74,Medical graduates / 100k
+NLD,2012,14.74,True,False,14.74,Medical graduates / 100k
+NLD,2013,14.4,True,False,14.4,Medical graduates / 100k
+NLD,2014,14.53,True,False,14.53,Medical graduates / 100k
+NLD,2015,14.64,True,False,14.64,Medical graduates / 100k
+NLD,2016,15.33,True,False,15.33,Medical graduates / 100k
+NLD,2017,15.94,True,False,15.94,Medical graduates / 100k
+NLD,2018,15.78,True,False,15.78,Medical graduates / 100k
+NLD,2019,15.11,True,False,15.11,Medical graduates / 100k
+NLD,2020,14.33,True,False,14.33,Medical graduates / 100k
+NLD,2021,15.46,True,False,15.46,Medical graduates / 100k
+NLD,2022,14.07,True,False,14.07,Medical graduates / 100k
+NLD,2023,13.97,True,False,13.97,Medical graduates / 100k
+NLD,2024,14.31,True,False,14.31,Medical graduates / 100k
+NOR,2010,11.27,True,False,11.27,Medical graduates / 100k
+NOR,2011,11.47,True,False,11.47,Medical graduates / 100k
+NOR,2012,12.33,True,False,12.33,Medical graduates / 100k
+NOR,2013,11.38,True,False,11.38,Medical graduates / 100k
+NOR,2014,11.04,True,False,11.04,Medical graduates / 100k
+NOR,2015,11.18,True,False,11.18,Medical graduates / 100k
+NOR,2016,11.08,True,False,11.08,Medical graduates / 100k
+NOR,2017,11.1,True,False,11.1,Medical graduates / 100k
+NOR,2018,10.2,True,False,10.2,Medical graduates / 100k
+NOR,2019,11.33,True,False,11.33,Medical graduates / 100k
+NOR,2020,10.91,True,False,10.91,Medical graduates / 100k
+NOR,2021,10.26,True,False,10.26,Medical graduates / 100k
+NOR,2022,9.14,True,False,9.14,Medical graduates / 100k
+NOR,2023,10.78,True,False,10.78,Medical graduates / 100k
+NOR,2024,11.2,True,False,11.2,Medical graduates / 100k
+NZL,2010,7.29,True,False,7.29,Medical graduates / 100k
+NZL,2011,8.01,True,False,8.01,Medical graduates / 100k
+NZL,2012,7.89,True,False,7.89,Medical graduates / 100k
+NZL,2013,8.53,True,False,8.53,Medical graduates / 100k
+NZL,2014,8.68,True,False,8.68,Medical graduates / 100k
+NZL,2015,8.66,True,False,8.66,Medical graduates / 100k
+NZL,2016,9.42,True,False,9.42,Medical graduates / 100k
+NZL,2017,9.08,True,False,9.08,Medical graduates / 100k
+NZL,2018,9.67,True,False,9.67,Medical graduates / 100k
+NZL,2019,9.92,True,False,9.92,Medical graduates / 100k
+NZL,2020,10.41,True,False,10.41,Medical graduates / 100k
+NZL,2021,10.68,True,False,10.68,Medical graduates / 100k
+NZL,2022,10.49,True,False,10.49,Medical graduates / 100k
+NZL,2023,10.58,True,False,10.58,Medical graduates / 100k
+NZL,2024,9.81,True,False,9.81,Medical graduates / 100k
+POL,2010,8.1,True,False,8.1,Medical graduates / 100k
+POL,2011,8.8,True,False,8.8,Medical graduates / 100k
+POL,2012,9.32,True,False,9.32,Medical graduates / 100k
+POL,2013,9.88,True,False,9.88,Medical graduates / 100k
+POL,2014,9.7,True,False,9.7,Medical graduates / 100k
+POL,2015,10.24,True,False,10.24,Medical graduates / 100k
+POL,2016,10.49,True,False,10.49,Medical graduates / 100k
+POL,2017,10.95,True,False,10.95,Medical graduates / 100k
+POL,2018,10.55,True,False,10.55,Medical graduates / 100k
+POL,2019,11.97,True,False,11.97,Medical graduates / 100k
+POL,2020,12.36,True,False,12.36,Medical graduates / 100k
+POL,2021,13.7,True,False,13.7,Medical graduates / 100k
+POL,2022,15.09,True,False,15.09,Medical graduates / 100k
+POL,2023,15.83,True,False,15.83,Medical graduates / 100k
+POL,2024,16.34,True,False,16.34,Medical graduates / 100k
+PRT,2010,11.94,True,False,11.94,Medical graduates / 100k
+PRT,2011,12.18,True,False,12.18,Medical graduates / 100k
+PRT,2012,13.24,True,False,13.24,Medical graduates / 100k
+PRT,2013,13.61,True,False,13.61,Medical graduates / 100k
+PRT,2014,14.91,True,False,14.91,Medical graduates / 100k
+PRT,2015,15.82,True,False,15.82,Medical graduates / 100k
+PRT,2016,16.4,True,False,16.4,Medical graduates / 100k
+PRT,2017,16.02,True,False,16.02,Medical graduates / 100k
+PRT,2018,17.03,True,False,17.03,Medical graduates / 100k
+PRT,2019,15.73,True,False,15.73,Medical graduates / 100k
+PRT,2020,15.61,True,False,15.61,Medical graduates / 100k
+PRT,2021,16.16,True,False,16.16,Medical graduates / 100k
+PRT,2022,15.95,True,False,15.95,Medical graduates / 100k
+PRT,2023,17.42,True,False,17.42,Medical graduates / 100k
+PRT,2024,17.57,True,False,17.57,Medical graduates / 100k
+SVK,2010,11.78,True,False,11.78,Medical graduates / 100k
+SVK,2011,12.67,True,False,12.67,Medical graduates / 100k
+SVK,2012,13.59,True,False,13.59,Medical graduates / 100k
+SVK,2013,15.94,True,False,15.94,Medical graduates / 100k
+SVK,2014,13.51,True,False,13.51,Medical graduates / 100k
+SVK,2015,15.63,True,False,15.63,Medical graduates / 100k
+SVK,2016,16.04,True,False,16.04,Medical graduates / 100k
+SVK,2017,16.88,True,False,16.88,Medical graduates / 100k
+SVK,2018,17.66,True,False,17.66,Medical graduates / 100k
+SVK,2019,18.04,True,False,18.04,Medical graduates / 100k
+SVK,2020,19.8,True,False,19.8,Medical graduates / 100k
+SVK,2021,19.17,True,False,19.17,Medical graduates / 100k
+SVK,2022,19.13,True,False,19.13,Medical graduates / 100k
+SVK,2023,19.26,True,False,19.26,Medical graduates / 100k
+SVK,2024,21.87,True,False,21.87,Medical graduates / 100k
+SVN,2010,,False,False,,Medical graduates / 100k
+SVN,2011,,False,False,,Medical graduates / 100k
+SVN,2012,,False,False,,Medical graduates / 100k
+SVN,2013,,False,False,,Medical graduates / 100k
+SVN,2014,,False,False,,Medical graduates / 100k
+SVN,2015,,False,False,,Medical graduates / 100k
+SVN,2016,,False,False,,Medical graduates / 100k
+SVN,2017,,False,False,,Medical graduates / 100k
+SVN,2018,,False,False,,Medical graduates / 100k
+SVN,2019,,False,False,,Medical graduates / 100k
+SVN,2020,,False,False,,Medical graduates / 100k
+SVN,2021,13.0,True,False,13.0,Medical graduates / 100k
+SVN,2022,11.36,True,False,11.36,Medical graduates / 100k
+SVN,2023,10.94,True,False,10.94,Medical graduates / 100k
+SVN,2024,12.08,True,False,12.08,Medical graduates / 100k
+SWE,2010,10.33,True,False,10.33,Medical graduates / 100k
+SWE,2011,10.7,True,False,10.7,Medical graduates / 100k
+SWE,2012,11.88,True,False,11.88,Medical graduates / 100k
+SWE,2013,10.28,True,False,10.28,Medical graduates / 100k
+SWE,2014,11.25,True,False,11.25,Medical graduates / 100k
+SWE,2015,12.41,True,False,12.41,Medical graduates / 100k
+SWE,2016,11.98,True,False,11.98,Medical graduates / 100k
+SWE,2017,12.74,True,False,12.74,Medical graduates / 100k
+SWE,2018,13.11,True,False,13.11,Medical graduates / 100k
+SWE,2019,13.47,True,False,13.47,Medical graduates / 100k
+SWE,2020,13.57,True,False,13.57,Medical graduates / 100k
+SWE,2021,14.15,True,False,14.15,Medical graduates / 100k
+SWE,2022,13.89,True,False,13.89,Medical graduates / 100k
+SWE,2023,13.5,True,False,13.5,Medical graduates / 100k
+SWE,2024,13.95,True,False,13.95,Medical graduates / 100k
+TUR,2010,7.02,True,False,7.02,Medical graduates / 100k
+TUR,2011,6.71,True,False,6.71,Medical graduates / 100k
+TUR,2012,6.58,True,False,6.58,Medical graduates / 100k
+TUR,2013,6.79,True,False,6.79,Medical graduates / 100k
+TUR,2014,6.7,True,False,6.7,Medical graduates / 100k
+TUR,2015,8.82,True,False,8.82,Medical graduates / 100k
+TUR,2016,9.65,True,False,9.65,Medical graduates / 100k
+TUR,2017,10.62,True,False,10.62,Medical graduates / 100k
+TUR,2018,11.54,True,False,11.54,Medical graduates / 100k
+TUR,2019,13.14,True,False,13.14,Medical graduates / 100k
+TUR,2020,14.28,True,False,14.28,Medical graduates / 100k
+TUR,2021,15.73,True,False,15.73,Medical graduates / 100k
+TUR,2022,17.07,True,False,17.07,Medical graduates / 100k
+TUR,2023,16.08,True,False,16.08,Medical graduates / 100k
+TUR,2024,17.99,True,False,17.99,Medical graduates / 100k
+USA,2010,6.62,True,False,6.62,Medical graduates / 100k
+USA,2011,6.9,True,False,6.9,Medical graduates / 100k
+USA,2012,6.94,True,False,6.94,Medical graduates / 100k
+USA,2013,7.25,True,False,7.25,Medical graduates / 100k
+USA,2014,7.23,True,False,7.23,Medical graduates / 100k
+USA,2015,7.47,True,False,7.47,Medical graduates / 100k
+USA,2016,7.53,True,False,7.53,Medical graduates / 100k
+USA,2017,7.74,True,False,7.74,Medical graduates / 100k
+USA,2018,7.91,True,False,7.91,Medical graduates / 100k
+USA,2019,8.07,True,False,8.07,Medical graduates / 100k
+USA,2020,8.24,True,False,8.24,Medical graduates / 100k
+USA,2021,8.53,True,False,8.53,Medical graduates / 100k
+USA,2022,8.61,True,False,8.61,Medical graduates / 100k
+USA,2023,8.56,True,False,8.56,Medical graduates / 100k
+USA,2024,8.62,True,False,8.62,Medical graduates / 100k
+AUS,2010,,False,False,,Practising physicians / 1k
+AUS,2011,3.32,True,False,3.32,Practising physicians / 1k
+AUS,2012,3.31,True,False,3.31,Practising physicians / 1k
+AUS,2013,3.37,True,False,3.37,Practising physicians / 1k
+AUS,2014,3.45,True,False,3.45,Practising physicians / 1k
+AUS,2015,3.51,True,False,3.51,Practising physicians / 1k
+AUS,2016,3.58,True,False,3.58,Practising physicians / 1k
+AUS,2017,3.68,True,False,3.68,Practising physicians / 1k
+AUS,2018,3.75,True,False,3.75,Practising physicians / 1k
+AUS,2019,3.83,True,False,3.83,Practising physicians / 1k
+AUS,2020,3.91,True,False,3.91,Practising physicians / 1k
+AUS,2021,4.02,True,False,4.02,Practising physicians / 1k
+AUS,2022,4.11,True,False,4.11,Practising physicians / 1k
+AUS,2023,4.19,True,False,4.19,Practising physicians / 1k
+AUS,2024,4.29,True,False,4.29,Practising physicians / 1k
+AUT,2010,4.77,True,False,4.77,Practising physicians / 1k
+AUT,2011,4.82,True,False,4.82,Practising physicians / 1k
+AUT,2012,4.87,True,False,4.87,Practising physicians / 1k
+AUT,2013,4.96,True,False,4.96,Practising physicians / 1k
+AUT,2014,5.02,True,False,5.02,Practising physicians / 1k
+AUT,2015,5.06,True,False,5.06,Practising physicians / 1k
+AUT,2016,5.11,True,False,5.11,Practising physicians / 1k
+AUT,2017,5.16,True,False,5.16,Practising physicians / 1k
+AUT,2018,5.22,True,False,5.22,Practising physicians / 1k
+AUT,2019,5.29,True,False,5.29,Practising physicians / 1k
+AUT,2020,5.32,True,False,5.32,Practising physicians / 1k
+AUT,2021,5.41,True,False,5.41,Practising physicians / 1k
+AUT,2022,5.45,True,False,5.45,Practising physicians / 1k
+AUT,2023,5.51,True,False,5.51,Practising physicians / 1k
+AUT,2024,5.64,True,False,5.64,Practising physicians / 1k
+BEL,2010,2.92,True,False,2.92,Practising physicians / 1k
+BEL,2011,2.92,True,False,2.92,Practising physicians / 1k
+BEL,2012,2.93,True,False,2.93,Practising physicians / 1k
+BEL,2013,2.95,True,False,2.95,Practising physicians / 1k
+BEL,2014,2.98,True,False,2.98,Practising physicians / 1k
+BEL,2015,3.02,True,False,3.02,Practising physicians / 1k
+BEL,2016,3.07,True,False,3.07,Practising physicians / 1k
+BEL,2017,3.08,True,False,3.08,Practising physicians / 1k
+BEL,2018,3.13,True,False,3.13,Practising physicians / 1k
+BEL,2019,3.16,True,False,3.16,Practising physicians / 1k
+BEL,2020,3.21,True,False,3.21,Practising physicians / 1k
+BEL,2021,3.25,True,False,3.25,Practising physicians / 1k
+BEL,2022,3.26,True,False,3.26,Practising physicians / 1k
+BEL,2023,3.37,True,False,3.37,Practising physicians / 1k
+BEL,2024,3.34,True,False,3.34,Practising physicians / 1k
+CAN,2010,2.28,True,False,2.28,Practising physicians / 1k
+CAN,2011,2.35,True,False,2.35,Practising physicians / 1k
+CAN,2012,2.41,True,False,2.41,Practising physicians / 1k
+CAN,2013,2.46,True,False,2.46,Practising physicians / 1k
+CAN,2014,2.51,True,False,2.51,Practising physicians / 1k
+CAN,2015,2.56,True,False,2.56,Practising physicians / 1k
+CAN,2016,2.6,True,False,2.6,Practising physicians / 1k
+CAN,2017,2.66,True,False,2.66,Practising physicians / 1k
+CAN,2018,2.72,True,False,2.72,Practising physicians / 1k
+CAN,2019,2.73,True,False,2.73,Practising physicians / 1k
+CAN,2020,2.73,True,False,2.73,Practising physicians / 1k
+CAN,2021,2.76,True,False,2.76,Practising physicians / 1k
+CAN,2022,2.76,True,False,2.76,Practising physicians / 1k
+CAN,2023,2.72,True,False,2.72,Practising physicians / 1k
+CAN,2024,2.7,True,False,2.7,Practising physicians / 1k
+CHE,2010,3.81,True,False,3.81,Practising physicians / 1k
+CHE,2011,3.83,True,False,3.83,Practising physicians / 1k
+CHE,2012,3.92,True,False,3.92,Practising physicians / 1k
+CHE,2013,4.04,True,False,4.04,Practising physicians / 1k
+CHE,2014,4.13,True,False,4.13,Practising physicians / 1k
+CHE,2015,4.2,True,False,4.2,Practising physicians / 1k
+CHE,2016,4.25,True,False,4.25,Practising physicians / 1k
+CHE,2017,4.3,True,False,4.3,Practising physicians / 1k
+CHE,2018,4.34,True,False,4.34,Practising physicians / 1k
+CHE,2019,4.35,True,False,4.35,Practising physicians / 1k
+CHE,2020,4.39,True,False,4.39,Practising physicians / 1k
+CHE,2021,4.44,True,False,4.44,Practising physicians / 1k
+CHE,2022,4.48,True,False,4.48,Practising physicians / 1k
+CHE,2023,4.55,True,False,4.55,Practising physicians / 1k
+CHE,2024,4.66,True,False,4.66,Practising physicians / 1k
+CRI,2010,1.25,True,False,1.25,Practising physicians / 1k
+CRI,2011,1.26,True,False,1.26,Practising physicians / 1k
+CRI,2012,1.25,True,False,1.25,Practising physicians / 1k
+CRI,2013,1.29,True,False,1.29,Practising physicians / 1k
+CRI,2014,1.32,True,False,1.32,Practising physicians / 1k
+CRI,2015,1.36,True,False,1.36,Practising physicians / 1k
+CRI,2016,1.39,True,False,1.39,Practising physicians / 1k
+CRI,2017,1.45,True,False,1.45,Practising physicians / 1k
+CRI,2018,1.49,True,False,1.49,Practising physicians / 1k
+CRI,2019,1.54,True,False,1.54,Practising physicians / 1k
+CRI,2020,1.64,True,False,1.64,Practising physicians / 1k
+CRI,2021,1.7,True,False,1.7,Practising physicians / 1k
+CRI,2022,1.68,True,False,1.68,Practising physicians / 1k
+CRI,2023,1.68,True,False,1.68,Practising physicians / 1k
+CRI,2024,1.66,True,False,1.66,Practising physicians / 1k
+CZE,2010,3.6,True,False,3.6,Practising physicians / 1k
+CZE,2011,3.64,True,False,3.64,Practising physicians / 1k
+CZE,2012,3.67,True,False,3.67,Practising physicians / 1k
+CZE,2013,3.69,True,False,3.69,Practising physicians / 1k
+CZE,2014,,False,False,,Practising physicians / 1k
+CZE,2015,,False,False,,Practising physicians / 1k
+CZE,2016,,False,False,,Practising physicians / 1k
+CZE,2017,,False,False,,Practising physicians / 1k
+CZE,2018,4.04,True,False,4.04,Practising physicians / 1k
+CZE,2019,4.07,True,False,4.07,Practising physicians / 1k
+CZE,2020,4.1,True,False,4.1,Practising physicians / 1k
+CZE,2021,4.26,True,False,4.26,Practising physicians / 1k
+CZE,2022,4.22,True,False,4.22,Practising physicians / 1k
+CZE,2023,4.22,True,False,4.22,Practising physicians / 1k
+CZE,2024,4.29,True,False,4.29,Practising physicians / 1k
+DEU,2010,3.71,True,False,3.71,Practising physicians / 1k
+DEU,2011,3.88,True,False,3.88,Practising physicians / 1k
+DEU,2012,3.95,True,False,3.95,Practising physicians / 1k
+DEU,2013,4.04,True,False,4.04,Practising physicians / 1k
+DEU,2014,4.11,True,False,4.11,Practising physicians / 1k
+DEU,2015,4.14,True,False,4.14,Practising physicians / 1k
+DEU,2016,4.19,True,False,4.19,Practising physicians / 1k
+DEU,2017,4.25,True,False,4.25,Practising physicians / 1k
+DEU,2018,4.31,True,False,4.31,Practising physicians / 1k
+DEU,2019,4.39,True,False,4.39,Practising physicians / 1k
+DEU,2020,4.47,True,False,4.47,Practising physicians / 1k
+DEU,2021,4.53,True,False,4.53,Practising physicians / 1k
+DEU,2022,4.58,True,False,4.58,Practising physicians / 1k
+DEU,2023,4.66,True,False,4.66,Practising physicians / 1k
+DEU,2024,4.75,True,False,4.75,Practising physicians / 1k
+DNK,2010,3.73,True,False,3.73,Practising physicians / 1k
+DNK,2011,3.79,True,False,3.79,Practising physicians / 1k
+DNK,2012,3.84,True,False,3.84,Practising physicians / 1k
+DNK,2013,3.85,True,False,3.85,Practising physicians / 1k
+DNK,2014,3.88,True,False,3.88,Practising physicians / 1k
+DNK,2015,3.93,True,False,3.93,Practising physicians / 1k
+DNK,2016,4.0,True,False,4.0,Practising physicians / 1k
+DNK,2017,4.11,True,False,4.11,Practising physicians / 1k
+DNK,2018,4.2,True,False,4.2,Practising physicians / 1k
+DNK,2019,4.25,True,False,4.25,Practising physicians / 1k
+DNK,2020,4.38,True,False,4.38,Practising physicians / 1k
+DNK,2021,4.5,True,False,4.5,Practising physicians / 1k
+DNK,2022,4.48,True,False,4.48,Practising physicians / 1k
+DNK,2023,4.56,True,False,4.56,Practising physicians / 1k
+DNK,2024,4.66,True,False,4.66,Practising physicians / 1k
+ESP,2010,3.76,True,False,3.76,Practising physicians / 1k
+ESP,2011,3.84,True,False,3.84,Practising physicians / 1k
+ESP,2012,3.82,True,False,3.82,Practising physicians / 1k
+ESP,2013,3.81,True,False,3.81,Practising physicians / 1k
+ESP,2014,3.8,True,False,3.8,Practising physicians / 1k
+ESP,2015,3.85,True,False,3.85,Practising physicians / 1k
+ESP,2016,3.83,True,False,3.83,Practising physicians / 1k
+ESP,2017,3.88,True,False,3.88,Practising physicians / 1k
+ESP,2018,4.02,True,False,4.02,Practising physicians / 1k
+ESP,2019,4.41,True,False,4.41,Practising physicians / 1k
+ESP,2020,4.57,True,False,4.57,Practising physicians / 1k
+ESP,2021,4.49,True,False,4.49,Practising physicians / 1k
+ESP,2022,4.33,True,False,4.33,Practising physicians / 1k
+ESP,2023,4.39,True,False,4.39,Practising physicians / 1k
+ESP,2024,4.64,True,False,4.64,Practising physicians / 1k
+EST,2010,3.24,True,False,3.24,Practising physicians / 1k
+EST,2011,3.29,True,False,3.29,Practising physicians / 1k
+EST,2012,3.28,True,False,3.28,Practising physicians / 1k
+EST,2013,3.33,True,False,3.33,Practising physicians / 1k
+EST,2014,3.36,True,False,3.36,Practising physicians / 1k
+EST,2015,3.42,True,False,3.42,Practising physicians / 1k
+EST,2016,3.46,True,False,3.46,Practising physicians / 1k
+EST,2017,3.47,True,False,3.47,Practising physicians / 1k
+EST,2018,3.48,True,False,3.48,Practising physicians / 1k
+EST,2019,3.47,True,False,3.47,Practising physicians / 1k
+EST,2020,3.48,True,False,3.48,Practising physicians / 1k
+EST,2021,3.43,True,False,3.43,Practising physicians / 1k
+EST,2022,3.47,True,False,3.47,Practising physicians / 1k
+EST,2023,3.48,True,False,3.48,Practising physicians / 1k
+EST,2024,3.58,True,False,3.58,Practising physicians / 1k
+FIN,2010,3.03,True,False,3.03,Practising physicians / 1k
+FIN,2011,3.06,True,False,3.06,Practising physicians / 1k
+FIN,2012,3.14,True,False,3.14,Practising physicians / 1k
+FIN,2013,3.19,True,False,3.19,Practising physicians / 1k
+FIN,2014,3.25,True,False,3.25,Practising physicians / 1k
+FIN,2015,3.27,True,False,3.27,Practising physicians / 1k
+FIN,2016,3.3,True,False,3.3,Practising physicians / 1k
+FIN,2017,3.33,True,False,3.33,Practising physicians / 1k
+FIN,2018,3.35,True,False,3.35,Practising physicians / 1k
+FIN,2019,3.38,True,False,3.38,Practising physicians / 1k
+FIN,2020,3.41,True,False,3.41,Practising physicians / 1k
+FIN,2021,3.41,True,False,3.41,Practising physicians / 1k
+FIN,2022,3.44,True,False,3.44,Practising physicians / 1k
+FIN,2023,3.54,True,False,3.54,Practising physicians / 1k
+FIN,2024,3.62,True,False,3.62,Practising physicians / 1k
+FRA,2010,3.04,True,False,3.04,Practising physicians / 1k
+FRA,2011,3.06,True,False,3.06,Practising physicians / 1k
+FRA,2012,3.07,True,False,3.07,Practising physicians / 1k
+FRA,2013,3.09,True,False,3.09,Practising physicians / 1k
+FRA,2014,3.09,True,False,3.09,Practising physicians / 1k
+FRA,2015,3.11,True,False,3.11,Practising physicians / 1k
+FRA,2016,3.12,True,False,3.12,Practising physicians / 1k
+FRA,2017,3.14,True,False,3.14,Practising physicians / 1k
+FRA,2018,3.14,True,False,3.14,Practising physicians / 1k
+FRA,2019,3.16,True,False,3.16,Practising physicians / 1k
+FRA,2020,3.74,True,False,3.74,Practising physicians / 1k
+FRA,2021,3.78,True,False,3.78,Practising physicians / 1k
+FRA,2022,3.82,True,False,3.82,Practising physicians / 1k
+FRA,2023,3.89,True,False,3.89,Practising physicians / 1k
+FRA,2024,3.94,True,False,3.94,Practising physicians / 1k
+GBR,2010,2.65,True,False,2.65,Practising physicians / 1k
+GBR,2011,2.68,True,False,2.68,Practising physicians / 1k
+GBR,2012,2.7,True,False,2.7,Practising physicians / 1k
+GBR,2013,2.71,True,False,2.71,Practising physicians / 1k
+GBR,2014,2.74,True,False,2.74,Practising physicians / 1k
+GBR,2015,2.77,True,False,2.77,Practising physicians / 1k
+GBR,2016,2.78,True,False,2.78,Practising physicians / 1k
+GBR,2017,2.82,True,False,2.82,Practising physicians / 1k
+GBR,2018,2.85,True,False,2.85,Practising physicians / 1k
+GBR,2019,2.95,True,False,2.95,Practising physicians / 1k
+GBR,2020,3.05,True,False,3.05,Practising physicians / 1k
+GBR,2021,3.19,True,False,3.19,Practising physicians / 1k
+GBR,2022,3.26,True,False,3.26,Practising physicians / 1k
+GBR,2023,3.36,True,False,3.36,Practising physicians / 1k
+GBR,2024,3.49,True,False,3.49,Practising physicians / 1k
+GRC,2010,,False,False,,Practising physicians / 1k
+GRC,2011,,False,False,,Practising physicians / 1k
+GRC,2012,,False,False,,Practising physicians / 1k
+GRC,2013,,False,False,,Practising physicians / 1k
+GRC,2014,,False,False,,Practising physicians / 1k
+GRC,2015,,False,False,,Practising physicians / 1k
+GRC,2016,,False,False,,Practising physicians / 1k
+GRC,2017,,False,False,,Practising physicians / 1k
+GRC,2018,,False,False,,Practising physicians / 1k
+GRC,2019,,False,False,,Practising physicians / 1k
+GRC,2020,,False,False,,Practising physicians / 1k
+GRC,2021,,False,False,,Practising physicians / 1k
+GRC,2022,,False,False,,Practising physicians / 1k
+GRC,2023,6.25,True,False,6.25,Practising physicians / 1k
+GRC,2024,6.27,True,False,6.27,Practising physicians / 1k
+HUN,2010,2.87,True,False,2.87,Practising physicians / 1k
+HUN,2011,2.96,True,False,2.96,Practising physicians / 1k
+HUN,2012,3.09,True,False,3.09,Practising physicians / 1k
+HUN,2013,3.22,True,False,3.22,Practising physicians / 1k
+HUN,2014,3.33,True,False,3.33,Practising physicians / 1k
+HUN,2015,3.11,True,False,3.11,Practising physicians / 1k
+HUN,2016,3.23,True,False,3.23,Practising physicians / 1k
+HUN,2017,3.35,True,False,3.35,Practising physicians / 1k
+HUN,2018,3.41,True,False,3.41,Practising physicians / 1k
+HUN,2019,3.52,True,False,3.52,Practising physicians / 1k
+HUN,2020,3.17,True,False,3.17,Practising physicians / 1k
+HUN,2021,3.33,True,False,3.33,Practising physicians / 1k
+HUN,2022,3.47,True,False,3.47,Practising physicians / 1k
+HUN,2023,3.62,True,False,3.62,Practising physicians / 1k
+HUN,2024,3.72,True,False,3.72,Practising physicians / 1k
+IRL,2010,,False,False,,Practising physicians / 1k
+IRL,2011,2.67,True,False,2.67,Practising physicians / 1k
+IRL,2012,2.71,True,False,2.71,Practising physicians / 1k
+IRL,2013,2.67,True,False,2.67,Practising physicians / 1k
+IRL,2014,3.01,True,False,3.01,Practising physicians / 1k
+IRL,2015,3.12,True,False,3.12,Practising physicians / 1k
+IRL,2016,3.19,True,False,3.19,Practising physicians / 1k
+IRL,2017,3.24,True,False,3.24,Practising physicians / 1k
+IRL,2018,3.26,True,False,3.26,Practising physicians / 1k
+IRL,2019,3.29,True,False,3.29,Practising physicians / 1k
+IRL,2020,3.42,True,False,3.42,Practising physicians / 1k
+IRL,2021,3.96,True,False,3.96,Practising physicians / 1k
+IRL,2022,3.3,True,False,3.3,Practising physicians / 1k
+IRL,2023,3.79,True,False,3.79,Practising physicians / 1k
+IRL,2024,3.88,True,False,3.88,Practising physicians / 1k
+ISL,2010,3.59,True,False,3.59,Practising physicians / 1k
+ISL,2011,3.5,True,False,3.5,Practising physicians / 1k
+ISL,2012,3.56,True,False,3.56,Practising physicians / 1k
+ISL,2013,3.61,True,False,3.61,Practising physicians / 1k
+ISL,2014,3.64,True,False,3.64,Practising physicians / 1k
+ISL,2015,3.78,True,False,3.78,Practising physicians / 1k
+ISL,2016,3.85,True,False,3.85,Practising physicians / 1k
+ISL,2017,3.87,True,False,3.87,Practising physicians / 1k
+ISL,2018,3.89,True,False,3.89,Practising physicians / 1k
+ISL,2019,3.89,True,False,3.89,Practising physicians / 1k
+ISL,2020,4.32,True,False,4.32,Practising physicians / 1k
+ISL,2021,4.38,True,False,4.38,Practising physicians / 1k
+ISL,2022,4.39,True,False,4.39,Practising physicians / 1k
+ISL,2023,4.5,True,False,4.5,Practising physicians / 1k
+ISL,2024,4.66,True,False,4.66,Practising physicians / 1k
+ISR,2010,3.01,True,False,3.01,Practising physicians / 1k
+ISR,2011,3.0,True,False,3.0,Practising physicians / 1k
+ISR,2012,2.97,True,False,2.97,Practising physicians / 1k
+ISR,2013,2.94,True,False,2.94,Practising physicians / 1k
+ISR,2014,2.98,True,False,2.98,Practising physicians / 1k
+ISR,2015,3.07,True,False,3.07,Practising physicians / 1k
+ISR,2016,3.08,True,False,3.08,Practising physicians / 1k
+ISR,2017,3.14,True,False,3.14,Practising physicians / 1k
+ISR,2018,3.22,True,False,3.22,Practising physicians / 1k
+ISR,2019,3.29,True,False,3.29,Practising physicians / 1k
+ISR,2020,3.31,True,False,3.31,Practising physicians / 1k
+ISR,2021,3.39,True,False,3.39,Practising physicians / 1k
+ISR,2022,3.47,True,False,3.47,Practising physicians / 1k
+ISR,2023,3.51,True,False,3.51,Practising physicians / 1k
+ISR,2024,3.64,True,False,3.64,Practising physicians / 1k
+ITA,2010,3.78,True,False,3.78,Practising physicians / 1k
+ITA,2011,3.86,True,False,3.86,Practising physicians / 1k
+ITA,2012,3.83,True,False,3.83,Practising physicians / 1k
+ITA,2013,3.9,True,False,3.9,Practising physicians / 1k
+ITA,2014,3.91,True,False,3.91,Practising physicians / 1k
+ITA,2015,3.87,True,False,3.87,Practising physicians / 1k
+ITA,2016,3.99,True,False,3.99,Practising physicians / 1k
+ITA,2017,4.03,True,False,4.03,Practising physicians / 1k
+ITA,2018,4.01,True,False,4.01,Practising physicians / 1k
+ITA,2019,4.05,True,False,4.05,Practising physicians / 1k
+ITA,2020,4.0,True,False,4.0,Practising physicians / 1k
+ITA,2021,5.42,True,False,5.42,Practising physicians / 1k
+ITA,2022,5.58,True,False,5.58,Practising physicians / 1k
+ITA,2023,5.65,True,False,5.65,Practising physicians / 1k
+ITA,2024,5.75,True,False,5.75,Practising physicians / 1k
+JPN,2010,2.21,True,False,2.21,Practising physicians / 1k
+JPN,2011,,False,True,2.25,Practising physicians / 1k
+JPN,2012,2.29,True,False,2.29,Practising physicians / 1k
+JPN,2013,,False,True,2.325,Practising physicians / 1k
+JPN,2014,2.36,True,False,2.36,Practising physicians / 1k
+JPN,2015,,False,True,2.395,Practising physicians / 1k
+JPN,2016,2.43,True,False,2.43,Practising physicians / 1k
+JPN,2017,,False,True,2.46,Practising physicians / 1k
+JPN,2018,2.49,True,False,2.49,Practising physicians / 1k
+JPN,2019,,False,True,2.545,Practising physicians / 1k
+JPN,2020,2.6,True,False,2.6,Practising physicians / 1k
+JPN,2021,,False,True,2.625,Practising physicians / 1k
+JPN,2022,2.65,True,False,2.65,Practising physicians / 1k
+JPN,2023,,False,True,2.675,Practising physicians / 1k
+JPN,2024,2.7,True,False,2.7,Practising physicians / 1k
+KOR,2010,1.98,True,False,1.98,Practising physicians / 1k
+KOR,2011,2.03,True,False,2.03,Practising physicians / 1k
+KOR,2012,2.07,True,False,2.07,Practising physicians / 1k
+KOR,2013,2.16,True,False,2.16,Practising physicians / 1k
+KOR,2014,2.2,True,False,2.2,Practising physicians / 1k
+KOR,2015,2.24,True,False,2.24,Practising physicians / 1k
+KOR,2016,2.29,True,False,2.29,Practising physicians / 1k
+KOR,2017,2.35,True,False,2.35,Practising physicians / 1k
+KOR,2018,2.39,True,False,2.39,Practising physicians / 1k
+KOR,2019,2.46,True,False,2.46,Practising physicians / 1k
+KOR,2020,2.51,True,False,2.51,Practising physicians / 1k
+KOR,2021,2.56,True,False,2.56,Practising physicians / 1k
+KOR,2022,2.62,True,False,2.62,Practising physicians / 1k
+KOR,2023,2.66,True,False,2.66,Practising physicians / 1k
+KOR,2024,2.57,True,False,2.57,Practising physicians / 1k
+LTU,2010,3.95,True,False,3.95,Practising physicians / 1k
+LTU,2011,4.1,True,False,4.1,Practising physicians / 1k
+LTU,2012,4.22,True,False,4.22,Practising physicians / 1k
+LTU,2013,4.27,True,False,4.27,Practising physicians / 1k
+LTU,2014,4.3,True,False,4.3,Practising physicians / 1k
+LTU,2015,4.33,True,False,4.33,Practising physicians / 1k
+LTU,2016,4.45,True,False,4.45,Practising physicians / 1k
+LTU,2017,4.53,True,False,4.53,Practising physicians / 1k
+LTU,2018,4.57,True,False,4.57,Practising physicians / 1k
+LTU,2019,4.54,True,False,4.54,Practising physicians / 1k
+LTU,2020,4.46,True,False,4.46,Practising physicians / 1k
+LTU,2021,4.46,True,False,4.46,Practising physicians / 1k
+LTU,2022,4.44,True,False,4.44,Practising physicians / 1k
+LTU,2023,4.62,True,False,4.62,Practising physicians / 1k
+LTU,2024,4.67,True,False,4.67,Practising physicians / 1k
+LUX,2010,2.77,True,False,2.77,Practising physicians / 1k
+LUX,2011,2.78,True,False,2.78,Practising physicians / 1k
+LUX,2012,2.81,True,False,2.81,Practising physicians / 1k
+LUX,2013,3.27,True,False,3.27,Practising physicians / 1k
+LUX,2014,3.32,True,False,3.32,Practising physicians / 1k
+LUX,2015,3.35,True,False,3.35,Practising physicians / 1k
+LUX,2016,3.41,True,False,3.41,Practising physicians / 1k
+LUX,2017,3.44,True,False,3.44,Practising physicians / 1k
+LUX,2018,3.56,True,False,3.56,Practising physicians / 1k
+LUX,2019,3.63,True,False,3.63,Practising physicians / 1k
+LUX,2020,3.71,True,False,3.71,Practising physicians / 1k
+LUX,2021,3.8,True,False,3.8,Practising physicians / 1k
+LUX,2022,3.91,True,False,3.91,Practising physicians / 1k
+LUX,2023,4.01,True,False,4.01,Practising physicians / 1k
+LUX,2024,4.09,True,False,4.09,Practising physicians / 1k
+LVA,2010,3.11,True,False,3.11,Practising physicians / 1k
+LVA,2011,3.13,True,False,3.13,Practising physicians / 1k
+LVA,2012,3.14,True,False,3.14,Practising physicians / 1k
+LVA,2013,3.19,True,False,3.19,Practising physicians / 1k
+LVA,2014,3.22,True,False,3.22,Practising physicians / 1k
+LVA,2015,3.2,True,False,3.2,Practising physicians / 1k
+LVA,2016,3.21,True,False,3.21,Practising physicians / 1k
+LVA,2017,3.21,True,False,3.21,Practising physicians / 1k
+LVA,2018,3.3,True,False,3.3,Practising physicians / 1k
+LVA,2019,3.27,True,False,3.27,Practising physicians / 1k
+LVA,2020,3.34,True,False,3.34,Practising physicians / 1k
+LVA,2021,3.36,True,False,3.36,Practising physicians / 1k
+LVA,2022,3.39,True,False,3.39,Practising physicians / 1k
+LVA,2023,3.34,True,False,3.34,Practising physicians / 1k
+LVA,2024,3.4,True,False,3.4,Practising physicians / 1k
+MEX,2010,1.99,True,False,1.99,Practising physicians / 1k
+MEX,2011,2.09,True,False,2.09,Practising physicians / 1k
+MEX,2012,2.1,True,False,2.1,Practising physicians / 1k
+MEX,2013,2.14,True,False,2.14,Practising physicians / 1k
+MEX,2014,2.21,True,False,2.21,Practising physicians / 1k
+MEX,2015,2.31,True,False,2.31,Practising physicians / 1k
+MEX,2016,2.32,True,False,2.32,Practising physicians / 1k
+MEX,2017,2.38,True,False,2.38,Practising physicians / 1k
+MEX,2018,2.43,True,False,2.43,Practising physicians / 1k
+MEX,2019,2.43,True,False,2.43,Practising physicians / 1k
+MEX,2020,2.4,True,False,2.4,Practising physicians / 1k
+MEX,2021,2.51,True,False,2.51,Practising physicians / 1k
+MEX,2022,2.56,True,False,2.56,Practising physicians / 1k
+MEX,2023,2.72,True,False,2.72,Practising physicians / 1k
+MEX,2024,2.75,True,False,2.75,Practising physicians / 1k
+NLD,2010,,False,False,,Practising physicians / 1k
+NLD,2011,,False,False,,Practising physicians / 1k
+NLD,2012,,False,False,,Practising physicians / 1k
+NLD,2013,,False,False,,Practising physicians / 1k
+NLD,2014,3.42,True,False,3.42,Practising physicians / 1k
+NLD,2015,3.49,True,False,3.49,Practising physicians / 1k
+NLD,2016,3.54,True,False,3.54,Practising physicians / 1k
+NLD,2017,3.6,True,False,3.6,Practising physicians / 1k
+NLD,2018,3.67,True,False,3.67,Practising physicians / 1k
+NLD,2019,3.75,True,False,3.75,Practising physicians / 1k
+NLD,2020,3.85,True,False,3.85,Practising physicians / 1k
+NLD,2021,3.92,True,False,3.92,Practising physicians / 1k
+NLD,2022,3.94,True,False,3.94,Practising physicians / 1k
+NLD,2023,3.94,True,False,3.94,Practising physicians / 1k
+NLD,2024,3.96,True,False,3.96,Practising physicians / 1k
+NOR,2010,4.11,True,False,4.11,Practising physicians / 1k
+NOR,2011,4.19,True,False,4.19,Practising physicians / 1k
+NOR,2012,4.23,True,False,4.23,Practising physicians / 1k
+NOR,2013,4.31,True,False,4.31,Practising physicians / 1k
+NOR,2014,4.43,True,False,4.43,Practising physicians / 1k
+NOR,2015,4.09,True,False,4.09,Practising physicians / 1k
+NOR,2016,4.22,True,False,4.22,Practising physicians / 1k
+NOR,2017,4.35,True,False,4.35,Practising physicians / 1k
+NOR,2018,4.47,True,False,4.47,Practising physicians / 1k
+NOR,2019,4.58,True,False,4.58,Practising physicians / 1k
+NOR,2020,4.68,True,False,4.68,Practising physicians / 1k
+NOR,2021,4.77,True,False,4.77,Practising physicians / 1k
+NOR,2022,4.91,True,False,4.91,Practising physicians / 1k
+NOR,2023,4.97,True,False,4.97,Practising physicians / 1k
+NOR,2024,5.07,True,False,5.07,Practising physicians / 1k
+NZL,2010,2.62,True,False,2.62,Practising physicians / 1k
+NZL,2011,2.65,True,False,2.65,Practising physicians / 1k
+NZL,2012,2.72,True,False,2.72,Practising physicians / 1k
+NZL,2013,2.83,True,False,2.83,Practising physicians / 1k
+NZL,2014,2.89,True,False,2.89,Practising physicians / 1k
+NZL,2015,3.03,True,False,3.03,Practising physicians / 1k
+NZL,2016,3.12,True,False,3.12,Practising physicians / 1k
+NZL,2017,3.25,True,False,3.25,Practising physicians / 1k
+NZL,2018,3.31,True,False,3.31,Practising physicians / 1k
+NZL,2019,3.38,True,False,3.38,Practising physicians / 1k
+NZL,2020,3.44,True,False,3.44,Practising physicians / 1k
+NZL,2021,3.55,True,False,3.55,Practising physicians / 1k
+NZL,2022,3.65,True,False,3.65,Practising physicians / 1k
+NZL,2023,3.66,True,False,3.66,Practising physicians / 1k
+NZL,2024,3.72,True,False,3.72,Practising physicians / 1k
+POL,2010,2.19,True,False,2.19,Practising physicians / 1k
+POL,2011,2.21,True,False,2.21,Practising physicians / 1k
+POL,2012,2.23,True,False,2.23,Practising physicians / 1k
+POL,2013,2.24,True,False,2.24,Practising physicians / 1k
+POL,2014,2.31,True,False,2.31,Practising physicians / 1k
+POL,2015,2.33,True,False,2.33,Practising physicians / 1k
+POL,2016,2.42,True,False,2.42,Practising physicians / 1k
+POL,2017,2.38,True,False,2.38,Practising physicians / 1k
+POL,2018,2.36,True,False,2.36,Practising physicians / 1k
+POL,2019,3.3,True,False,3.3,Practising physicians / 1k
+POL,2020,3.36,True,False,3.36,Practising physicians / 1k
+POL,2021,3.51,True,False,3.51,Practising physicians / 1k
+POL,2022,3.57,True,False,3.57,Practising physicians / 1k
+POL,2023,3.75,True,False,3.75,Practising physicians / 1k
+POL,2024,3.86,True,False,3.86,Practising physicians / 1k
+PRT,2010,,False,False,,Practising physicians / 1k
+PRT,2011,,False,False,,Practising physicians / 1k
+PRT,2012,,False,False,,Practising physicians / 1k
+PRT,2013,,False,False,,Practising physicians / 1k
+PRT,2014,,False,False,,Practising physicians / 1k
+PRT,2015,,False,False,,Practising physicians / 1k
+PRT,2016,,False,False,,Practising physicians / 1k
+PRT,2017,,False,False,,Practising physicians / 1k
+PRT,2018,,False,False,,Practising physicians / 1k
+PRT,2019,,False,False,,Practising physicians / 1k
+PRT,2020,,False,False,,Practising physicians / 1k
+PRT,2021,4.19,True,False,4.19,Practising physicians / 1k
+PRT,2022,4.23,True,False,4.23,Practising physicians / 1k
+PRT,2023,4.25,True,False,4.25,Practising physicians / 1k
+PRT,2024,4.31,True,False,4.31,Practising physicians / 1k
+SVN,2010,2.43,True,False,2.43,Practising physicians / 1k
+SVN,2011,2.49,True,False,2.49,Practising physicians / 1k
+SVN,2012,2.54,True,False,2.54,Practising physicians / 1k
+SVN,2013,2.63,True,False,2.63,Practising physicians / 1k
+SVN,2014,2.77,True,False,2.77,Practising physicians / 1k
+SVN,2015,2.83,True,False,2.83,Practising physicians / 1k
+SVN,2016,3.01,True,False,3.01,Practising physicians / 1k
+SVN,2017,3.1,True,False,3.1,Practising physicians / 1k
+SVN,2018,3.18,True,False,3.18,Practising physicians / 1k
+SVN,2019,3.26,True,False,3.26,Practising physicians / 1k
+SVN,2020,3.3,True,False,3.3,Practising physicians / 1k
+SVN,2021,3.34,True,False,3.34,Practising physicians / 1k
+SVN,2022,3.37,True,False,3.37,Practising physicians / 1k
+SVN,2023,3.5,True,False,3.5,Practising physicians / 1k
+SVN,2024,3.57,True,False,3.57,Practising physicians / 1k
+SWE,2010,3.81,True,False,3.81,Practising physicians / 1k
+SWE,2011,3.89,True,False,3.89,Practising physicians / 1k
+SWE,2012,3.97,True,False,3.97,Practising physicians / 1k
+SWE,2013,4.04,True,False,4.04,Practising physicians / 1k
+SWE,2014,4.11,True,False,4.11,Practising physicians / 1k
+SWE,2015,4.17,True,False,4.17,Practising physicians / 1k
+SWE,2016,4.23,True,False,4.23,Practising physicians / 1k
+SWE,2017,4.27,True,False,4.27,Practising physicians / 1k
+SWE,2018,4.32,True,False,4.32,Practising physicians / 1k
+SWE,2019,4.29,True,False,4.29,Practising physicians / 1k
+SWE,2020,4.32,True,False,4.32,Practising physicians / 1k
+SWE,2021,4.41,True,False,4.41,Practising physicians / 1k
+SWE,2022,4.55,True,False,4.55,Practising physicians / 1k
+SWE,2023,4.63,True,False,4.63,Practising physicians / 1k
+SWE,2024,4.66,True,False,4.66,Practising physicians / 1k
+USA,2010,2.43,True,False,2.43,Practising physicians / 1k
+USA,2011,2.46,True,False,2.46,Practising physicians / 1k
+USA,2012,2.5,True,False,2.5,Practising physicians / 1k
+USA,2013,2.56,True,False,2.56,Practising physicians / 1k
+USA,2014,2.57,True,False,2.57,Practising physicians / 1k
+USA,2015,2.57,True,False,2.57,Practising physicians / 1k
+USA,2016,2.58,True,False,2.58,Practising physicians / 1k
+USA,2017,2.6,True,False,2.6,Practising physicians / 1k
+USA,2018,2.59,True,False,2.59,Practising physicians / 1k
+USA,2019,2.62,True,False,2.62,Practising physicians / 1k
+USA,2020,2.63,True,False,2.63,Practising physicians / 1k
+USA,2021,2.67,True,False,2.67,Practising physicians / 1k
+USA,2022,2.71,True,False,2.71,Practising physicians / 1k
+USA,2023,,False,False,,Practising physicians / 1k
+USA,2024,,False,False,,Practising physicians / 1k
