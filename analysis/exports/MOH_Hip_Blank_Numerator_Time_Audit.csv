@@ -1,0 +1,8 @@
+﻿category,source_records,cases_in_records
+all_blank_numerators,1470,1499.0
+blank_and_time_gt48,1355,1383.0
+blank_and_time_eq48,115,116.0
+blank_and_time_lt48,0,0
+all_time_gt48,1355,1383.0
+all_time_lt48,11214,11494.0
+time_eq48_with_reported_numerator,6,6.0

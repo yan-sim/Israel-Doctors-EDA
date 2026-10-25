@@ -35,3 +35,13 @@ The original ZIP and BAK are preserved byte-for-byte under simplified filenames.
 The text and notebook files in the ZIP were scanned for common credential patterns, with no matches found; this is a limited check. **The database backup was published without inspecting its contents at the owner's explicit request.** The notebook's saved outputs contained no recorded execution errors; a full rerun and SQL restore have not been performed.
 
 No additional license or redistribution rights are asserted for third-party datasets; consult their original providers' terms.
+
+## Missing numerator validation (25 October 2026)
+
+Notebook section **5.2.1** now compares blank approved-case counts against the independently recorded hip-fracture operation time. Of 1,470 source records with blank numerators, 1,355 have time greater than 48 hours; the remaining 115 are exactly at the recorded 48-hour boundary. All records above 48 hours have blank numerators; none below 48 hours do. These are source-record counts, not patient counts, and the rounded boundary is kept separate.
+
+- [Presentation chart (PNG)](analysis/charts/quality_hip_missing_numerator_vs_time.png)
+- [Vector chart (SVG)](analysis/charts/quality_hip_missing_numerator_vs_time.svg)
+- [Audit counts, including case-weighted totals](analysis/exports/MOH_Hip_Blank_Numerator_Time_Audit.csv)
+
+The added cell was executed and its actual output embedded. Other notebook cells were not rerun. Existing clinical results remain exploratory; validating source strata and specialty extraction is a separate task. The original downloadable ZIP remains the unchanged version-22 archive; use the notebook under `analysis/` for this update.

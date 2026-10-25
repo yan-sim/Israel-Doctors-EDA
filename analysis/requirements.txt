@@ -4,3 +4,4 @@ matplotlib>=3.7
 ipykernel>=6.0
 
 scipy>=1.10
+python-bidi>=0.6
